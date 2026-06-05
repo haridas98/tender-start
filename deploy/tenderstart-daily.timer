@@ -1,0 +1,10 @@
+[Unit]
+Description=Run TenderStart daily data and RAG pipeline
+
+[Timer]
+OnCalendar=*-*-* 03:20:00
+Persistent=true
+Unit=tenderstart-daily.service
+
+[Install]
+WantedBy=timers.target

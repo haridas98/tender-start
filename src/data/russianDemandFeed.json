@@ -1,0 +1,1270 @@
+{
+  "updatedAt": "2026-06-02T21:53:39.208Z",
+  "source": "ЕИС daily parser + seed + SIBUR procurement parser",
+  "items": [
+    {
+      "id": "seed-eis-nizhnekamsk-caustic-soda",
+      "organization": "Нижнекамскнефтехим",
+      "region": "Татарстан",
+      "productId": "caustic-soda",
+      "monthlyVolumeTons": 120,
+      "targetPriceRubPerTon": 62000,
+      "source": "ЕИС/223-ФЗ, seed до первого live-сбора",
+      "buyerContact": "tender@nknh-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "medium"
+    },
+    {
+      "buyerContact": "Малкина Дарья Сергеевна, +7 (831) 455-94-00 доб. 2912, malkinads@rvl.sibur.ru",
+      "buyerEmail": "malkinads@rvl.sibur.ru",
+      "buyerName": "Малкина Дарья Сергеевна",
+      "buyerPhone": "+7 (831) 455-94-00 доб. 2912",
+      "category": "Трубы и металлопрокат",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133954-1\\metall_xlsx.XLSX",
+          "status": "downloaded",
+          "title": "metall_xlsx.XLSX",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/013/3xhi364ig3m69m2ea68gwe5y03zg08bw.XLSX"
+        }
+      ],
+      "id": "sibur-2133954-1",
+      "items": [
+        {
+          "documents": [
+            "metall_xlsx.XLSX"
+          ],
+          "name": "44131728_Металл",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "44131728_Металл Квалификация по группе обязательна. Легковые а/м, а также грузовые а/м с грузами, предназначенными для других Грузополучателей (других юр лиц) - не могут быть допущены на территорию Русвинил ООО. | Категория: Трубы и металлопрокат | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 14:00:00 | Закупщик: Малкина Дарья Сергеевна | Телефон: +7 (831) 455-94-00 доб. 2912 | Email: malkinads@rvl.sibur.ru | Документы: metall_xlsx.XLSX",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133954/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133954/1: 44131728_Металл. Предмет: 44131728_Металл Квалификация по группе обязательна. Легковые а/м, а также грузовые а/м с грузами, предназначенными для других Грузополучателей (других юр лиц) - не могут быть допущены на территорию Русвинил ООО.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 14:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Малкина Дарья Сергеевна. Телефон закупщика: +7 (831) 455-94-00 доб. 2912. Email закупщика: malkinads@rvl.sibur.ru. Номенклатурная категория: Трубы и металлопрокат. Документы: metall_xlsx.XLSX.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "44131728_Металл"
+    },
+    {
+      "buyerContact": "Фролова Ирина Геннадьевна, +7 (345) 639-80-00 доб. 7297, frolovaig@tobolsk.sibur.ru",
+      "buyerEmail": "frolovaig@tobolsk.sibur.ru",
+      "buyerName": "Фролова Ирина Геннадьевна",
+      "buyerPhone": "+7 (345) 639-80-00 доб. 7297",
+      "category": "Лабораторное оборудование и реактивы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133955-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2133955-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Лаб.оборудование НКНХ(ЦЗЛ)",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Лаб.оборудование НКНХ(ЦЗЛ) | Категория: Лабораторное оборудование и реактивы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 10.06.2026 08:00:00 | Закупщик: Фролова Ирина Геннадьевна | Телефон: +7 (345) 639-80-00 доб. 7297 | Email: frolovaig@tobolsk.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133955/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Тюменская область",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133955/1: Лаб.оборудование НКНХ(ЦЗЛ). Предмет: Лаб.оборудование НКНХ(ЦЗЛ). Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 10.06.2026 08:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Фролова Ирина Геннадьевна. Телефон закупщика: +7 (345) 639-80-00 доб. 7297. Email закупщика: frolovaig@tobolsk.sibur.ru. Номенклатурная категория: Лабораторное оборудование и реактивы. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Лаб.оборудование НКНХ(ЦЗЛ)"
+    },
+    {
+      "buyerContact": "Софронова Ксения Витальевна, +7 (843) 533-90-90 доб. 622548, sofronovakv@rt.sibur.ru",
+      "buyerEmail": "sofronovakv@rt.sibur.ru",
+      "buyerName": "Софронова Ксения Витальевна",
+      "buyerPhone": "+7 (843) 533-90-90 доб. 622548",
+      "category": "Системы и средства автоматизации, метрологии и КИП",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133939-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2133939-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Газоанализаторы и комплектующие",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "При подгрузке предложения ВАЖНО!!! 1. В папку с коммерческой частью подгрузить ТКП 2. В папку ТЕХНИЧЕСКАЯ ЧАСТЬ!: ТП с описанием предлагаемого оборудования без коммерции заполненные ОЛ разрешительную документацию обязательно (сертификаты, паспорта) чертежи т.п. 3. Обязательно наличие квалификации по категории 108_04. | Категория: Системы и средства автоматизации, метрологии и КИП | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 10.06.2026 14:00:00 | Закупщик: Софронова Ксения Витальевна | Телефон: +7 (843) 533-90-90 доб. 622548 | Email: sofronovakv@rt.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133939/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133939/1: Газоанализаторы и комплектующие. Предмет: При подгрузке предложения ВАЖНО!!! 1. В папку с коммерческой частью подгрузить ТКП 2. В папку ТЕХНИЧЕСКАЯ ЧАСТЬ!: ТП с описанием предлагаемого оборудования без коммерции заполненные ОЛ разрешительную документацию обязательно (сертификаты, паспорта) чертежи т.п. 3. Обязательно наличие квалификации по категории 108_04.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 10.06.2026 14:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Софронова Ксения Витальевна. Телефон закупщика: +7 (843) 533-90-90 доб. 622548. Email закупщика: sofronovakv@rt.sibur.ru. Номенклатурная категория: Системы и средства автоматизации, метрологии и КИП. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Газоанализаторы и комплектующие"
+    },
+    {
+      "buyerContact": "Шестопалова Ирина Петровна, +7 (495) 777-55-00 доб. 2055, shstopalovaip@sibur.ru",
+      "buyerEmail": "shstopalovaip@sibur.ru",
+      "buyerName": "Шестопалова Ирина Петровна",
+      "buyerPhone": "+7 (495) 777-55-00 доб. 2055",
+      "category": "ИТ услуги",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\241_euf_nda_docx.docx",
+          "status": "downloaded",
+          "title": "241_euf_nda_docx.docx",
+          "type": "contract_template",
+          "url": "https://www.sibur.ru/upload/tmp/example/bb0/46hez8fha3fz94wc7wlalgfu24oamojn.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\tz_stvn_smr_pnr_kos_153a_pdf.pdf",
+          "status": "downloaded",
+          "title": "tz_stvn_smr_pnr_kos_153a_pdf.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/86d/0bex7ug5ake3ubrv6yi59dstgxnsay4j.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\forma_tkp_po_stvn_korp_153a_iz.xlsm",
+          "status": "downloaded",
+          "title": "forma_tkp_po_stvn_korp_153a_iz.xlsm",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/235/kuz8jplprsfhh2inzw7tcm8e3dkhy56p.xlsm"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\kriterii_kvalifikatsi_stvn_202.xlsx",
+          "status": "downloaded",
+          "title": "kriterii_kvalifikatsi_stvn_202.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/5b5/xxjdjd7qndizvetxl24iafpfhxnhxokk.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\1_formy_dlya_zapolneniya_xlsx.xlsx",
+          "status": "downloaded",
+          "title": "1_formy_dlya_zapolneniya_xlsx.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/df8/h0qy3id6w2w3xfg651iob9od0tynaftd.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\vl_v_5_5_xlsx.xlsx",
+          "status": "downloaded",
+          "title": "vl_v_5_5_xlsx.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/f65/ynybgogarl85azv8apdw124kns3lbbnn.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\prilozhenie_1_poryadok_dopuska.pdf",
+          "status": "downloaded",
+          "title": "prilozhenie_1_poryadok_dopuska.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/e26/amh82o4t9200acvzvr7q9gjrcavq7pje.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\prilozhenie_2_perechen_id_pdf.pdf",
+          "status": "downloaded",
+          "title": "prilozhenie_2_perechen_id_pdf.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/9b2/dwgqdkm7mrp6lb46k3b1r2unlmmcgjp3.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\rv_2026_006_final_xlsx.xlsx",
+          "status": "downloaded",
+          "title": "rv_2026_006_final_xlsx.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/33a/4lccuh1kktb2mqsfu86bzg2lcc2bpikt.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2132942-2\\formy_dlya_zapolneniya_informa.xlsx",
+          "status": "downloaded",
+          "title": "formy_dlya_zapolneniya_informa.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/16c/5vuakrc3d4s2adso1tqyl3zysksimi31.xlsx"
+        }
+      ],
+      "id": "sibur-2132942-2",
+      "items": [
+        {
+          "documents": [
+            "241_euf_nda_docx.docx",
+            "tz_stvn_smr_pnr_kos_153a_pdf.pdf",
+            "forma_tkp_po_stvn_korp_153a_iz.xlsm",
+            "kriterii_kvalifikatsi_stvn_202.xlsx",
+            "1_formy_dlya_zapolneniya_xlsx.xlsx",
+            "vl_v_5_5_xlsx.xlsx",
+            "prilozhenie_1_poryadok_dopuska.pdf",
+            "prilozhenie_2_perechen_id_pdf.pdf",
+            "rv_2026_006_final_xlsx.xlsx",
+            "formy_dlya_zapolneniya_informa.xlsx"
+          ],
+          "name": "Система СТВН_КОС",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Приведение системы СТВН к техническим требованиям СИБУРа (КОС) | Категория: ИТ услуги | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 08.06.2026 17:00:00 | Закупщик: Шестопалова Ирина Петровна | Телефон: +7 (495) 777-55-00 доб. 2055 | Email: shstopalovaip@sibur.ru | Документы: 241_euf_nda_docx.docx, tz_stvn_smr_pnr_kos_153a_pdf.pdf, forma_tkp_po_stvn_korp_153a_iz.xlsm, kriterii_kvalifikatsi_stvn_202.xlsx, 1_formy_dlya_zapolneniya_xlsx.xlsx, vl_v_5_5_xlsx.xlsx, prilozhenie_1_poryadok_dopuska.pdf, prilozhenie_2_perechen_id_pdf.pdf, rv_2026_006_final_xlsx.xlsx, formy_dlya_zapolneniya_informa.xlsx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2132942/2",
+      "organization": "ООО \"СИБУР Диджитал\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2132942/2: Система СТВН_КОС. Предмет: Приведение системы СТВН к техническим требованиям СИБУРа (КОС). Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 08.06.2026 17:00:00. Организатор: ООО \"СИБУР Диджитал\". Статус: Прием предложений. Закупщик: Шестопалова Ирина Петровна. Телефон закупщика: +7 (495) 777-55-00 доб. 2055. Email закупщика: shstopalovaip@sibur.ru. Номенклатурная категория: ИТ услуги. Документы: 241_euf_nda_docx.docx, tz_stvn_smr_pnr_kos_153a_pdf.pdf, forma_tkp_po_stvn_korp_153a_iz.xlsm, kriterii_kvalifikatsi_stvn_202.xlsx, 1_formy_dlya_zapolneniya_xlsx.xlsx, vl_v_5_5_xlsx.xlsx, prilozhenie_1_poryadok_dopuska.pdf, prilozhenie_2_perechen_id_pdf.pdf, rv_2026_006_final_xlsx.xlsx, formy_dlya_zapolneniya_informa.xlsx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Система СТВН_КОС"
+    },
+    {
+      "buyerContact": "Сафарметова Юлия Алимжановна, +7 (345) 639-80-00 доб. 7426, safarmetovaiua@tobolsk.sibur.ru",
+      "buyerEmail": "safarmetovaiua@tobolsk.sibur.ru",
+      "buyerName": "Сафарметова Юлия Алимжановна",
+      "buyerPhone": "+7 (345) 639-80-00 доб. 7426",
+      "category": "Лабораторное оборудование и реактивы",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2131811-3",
+      "items": [
+        {
+          "documents": [],
+          "name": "СТАБИЛИЗАТОР, MARK 17 MOK, CAS 15571-58-",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "СТАБИЛИЗАТОР, MARK 17 MOK, CAS 15571-58-1 | Категория: Лабораторное оборудование и реактивы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 08:00:00 | Закупщик: Сафарметова Юлия Алимжановна | Телефон: +7 (345) 639-80-00 доб. 7426 | Email: safarmetovaiua@tobolsk.sibur.ru",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2131811/3",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Тюменская область",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2131811/3: СТАБИЛИЗАТОР, MARK 17 MOK, CAS 15571-58-. Предмет: СТАБИЛИЗАТОР, MARK 17 MOK, CAS 15571-58-1. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 08:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Сафарметова Юлия Алимжановна. Телефон закупщика: +7 (345) 639-80-00 доб. 7426. Email закупщика: safarmetovaiua@tobolsk.sibur.ru. Номенклатурная категория: Лабораторное оборудование и реактивы.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "СТАБИЛИЗАТОР, MARK 17 MOK, CAS 15571-58-"
+    },
+    {
+      "buyerContact": "Шишкина Ольга Витальевна, +7 (855) 537-02-31 доб. 0231, shishkinaov@rt.sibur.ru",
+      "buyerEmail": "shishkinaov@rt.sibur.ru",
+      "buyerName": "Шишкина Ольга Витальевна",
+      "buyerPhone": "+7 (855) 537-02-31 доб. 0231",
+      "category": "Запорная арматура",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2125784-3\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2125784-3",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Регуляторы, НГПЗ, ХКС",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Регуляторы, НГПЗ, ХКС ВЛОЖИТЬ ТКП , ЗАПОЛНЕННЫЕ ОЛ , СЕРТИФИКАТЫ / ДЕКЛАРАЦИИ, ПРИМЕРЫ ПАСПОРТОВ, ЭСКИЗЫ/ ЧЕРТЕЖИ В ПАПКУ ТЕХНИЧЕСКАЯ ДОКУМЕНТАЦИЯ !!! При отсутствии вышеизложенной информации, предложение рассматриваться НЕ БУДЕТ! | Категория: Запорная арматура | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 12:00:00 | Закупщик: Шишкина Ольга Витальевна | Телефон: +7 (855) 537-02-31 доб. 0231 | Email: shishkinaov@rt.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2125784/3",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2125784/3: Регуляторы, НГПЗ, ХКС. Предмет: Регуляторы, НГПЗ, ХКС ВЛОЖИТЬ ТКП , ЗАПОЛНЕННЫЕ ОЛ , СЕРТИФИКАТЫ / ДЕКЛАРАЦИИ, ПРИМЕРЫ ПАСПОРТОВ, ЭСКИЗЫ/ ЧЕРТЕЖИ В ПАПКУ ТЕХНИЧЕСКАЯ ДОКУМЕНТАЦИЯ !!! При отсутствии вышеизложенной информации, предложение рассматриваться НЕ БУДЕТ!. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 12:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Шишкина Ольга Витальевна. Телефон закупщика: +7 (855) 537-02-31 доб. 0231. Email закупщика: shishkinaov@rt.sibur.ru. Номенклатурная категория: Запорная арматура. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Регуляторы, НГПЗ, ХКС"
+    },
+    {
+      "buyerContact": "Фаттахова Расиля Ринатовна, +7 (843) 533-90-90 доб. 622404, fattakhovarr@rt.sibur.ru",
+      "buyerEmail": "fattakhovarr@rt.sibur.ru",
+      "buyerName": "Фаттахова Расиля Ринатовна",
+      "buyerPhone": "+7 (843) 533-90-90 доб. 622404",
+      "category": "Химическая продукция и реагенты",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133637-2\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133637-2\\rukovodstvo_dlya_postavshchika.pdf",
+          "status": "downloaded",
+          "title": "rukovodstvo_dlya_postavshchika.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/9a6/h556krjua79i0xp6q3xqc41ec5p3zzmw.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133637-2\\supplier_manual_sibur_docx.docx",
+          "status": "downloaded",
+          "title": "supplier_manual_sibur_docx.docx",
+          "type": "supplier_manual",
+          "url": "https://www.sibur.ru/upload/tmp/example/843/bi42o90g72myozwaqc1aukwzlvl5r1nj.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133637-2\\tt_trietanolamin_rus_pdf.pdf",
+          "status": "downloaded",
+          "title": "tt_trietanolamin_rus_pdf.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/ece/nvedfh49xlfjny5sngoiu6nguqmg0uso.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133637-2\\triethanolamine_eng_pdf.pdf",
+          "status": "downloaded",
+          "title": "triethanolamine_eng_pdf.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b8f/jsflmay6w90ee2b2ymfwqes0wpubb5u1.pdf"
+        }
+      ],
+      "id": "sibur-2133637-2",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx",
+            "rukovodstvo_dlya_postavshchika.pdf",
+            "supplier_manual_sibur_docx.docx",
+            "tt_trietanolamin_rus_pdf.pdf",
+            "triethanolamine_eng_pdf.pdf"
+          ],
+          "name": "Триэтаноламин",
+          "okpd2": null,
+          "price": null,
+          "quantity": "200",
+          "spec": "Триэтаноламин (99,5% чистоты) Технические требования приложены в разделе документы. Упаковка – бочки 200 кг, упаковка невозвратная, стоимость упаковки включена в стоимость товара. Производитель – Синтез Ока, РФ. Может быть рассмотрен продукт другого производителя в случае прикрепления к предложению на площадке всех документов (COA, TDS, MSDS) с указанием полного наименования производителя и страны производителя. Победитель должен быть квалифицирован по категории 13_10 или 13_10_1. Предложения без приложенные документов о качестве и производителе (COA, TDS, MSDS) не могут быть рассмотрены. Triethanolamine (99.5% purity) The technical requirements are attached in the Documents section. Packaging: 200 kg drums. The packaging is non-returnable, and its cost is included in the product price. Manufacturer: Sintez Oka, Russian Federation. A product from another manufacturer may be considered if the offer submitted on the platform includes all documents (COA, TDS, MSDS) specifying the full name of the manufacturer and the country of origin. The winner must be qualified under category 13_10 or 13_10_1. Offers submitted without the required quality and manufacturer documents (COA, TDS, MSDS) cannot be considered. | Категория: Химическая продукция и реагенты | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 16:00:00 | Закупщик: Фаттахова Расиля Ринатовна | Телефон: +7 (843) 533-90-90 доб. 622404 | Email: fattakhovarr@rt.sibur.ru | Документы: euf_d_pr_04_29_docx.docx, rukovodstvo_dlya_postavshchika.pdf, supplier_manual_sibur_docx.docx, tt_trietanolamin_rus_pdf.pdf, triethanolamine_eng_pdf.pdf",
+          "unit": "кг"
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133637/2",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133637/2: Триэтаноламин. Предмет: Триэтаноламин (99,5% чистоты) Технические требования приложены в разделе документы. Упаковка – бочки 200 кг, упаковка невозвратная, стоимость упаковки включена в стоимость товара. Производитель – Синтез Ока, РФ. Может быть рассмотрен продукт другого производителя в случае прикрепления к предложению на площадке всех документов (COA, TDS, MSDS) с указанием полного наименования производителя и страны производителя. Победитель должен быть квалифицирован по категории 13_10 или 13_10_1. Предложения без приложенные документов о качестве и производителе (COA, TDS, MSDS) не могут быть рассмотрены. Triethanolamine (99.5% purity) The technical requirements are attached in the Documents section. Packaging: 200 kg drums. The packaging is non-returnable, and its cost is included in the product price. Manufacturer: Sintez Oka, Russian Federation. A product from another manufacturer may be considered if the offer submitted on the platform includes all documents (COA, TDS, MSDS) specifying the full name of the manufacturer and the country of origin. The winner must be qualified under category 13_10 or 13_10_1. Offers submitted without the required quality and manufacturer documents (COA, TDS, MSDS) cannot be considered.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 16:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Фаттахова Расиля Ринатовна. Телефон закупщика: +7 (843) 533-90-90 доб. 622404. Email закупщика: fattakhovarr@rt.sibur.ru. Номенклатурная категория: Химическая продукция и реагенты. Документы: euf_d_pr_04_29_docx.docx, rukovodstvo_dlya_postavshchika.pdf, supplier_manual_sibur_docx.docx, tt_trietanolamin_rus_pdf.pdf, triethanolamine_eng_pdf.pdf.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Триэтаноламин"
+    },
+    {
+      "buyerContact": "Тарасов Андрей Викторович, +7 (346) 649-44-42 доб. 4442, tarasovandv@stg.sibur.ru",
+      "buyerEmail": "tarasovandv@stg.sibur.ru",
+      "buyerName": "Тарасов Андрей Викторович",
+      "buyerPhone": "+7 (346) 649-44-42 доб. 4442",
+      "category": "Электрооборудование",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133909-1\\euf_dpr_04_31_docx.docx",
+          "status": "downloaded",
+          "title": "euf_dpr_04_31_docx.docx",
+          "type": "contract_template",
+          "url": "https://www.sibur.ru/upload/tmp/example/059/ertqwdz1aab5ypg6e9i2rweyrd0215y6.docx"
+        }
+      ],
+      "id": "sibur-2133909-1",
+      "items": [
+        {
+          "documents": [
+            "euf_dpr_04_31_docx.docx"
+          ],
+          "name": "Закупка солнечной ЭС (Сибур-Нефтехим)",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Закупка солнечной электростанции для нужд Сибур-Нефтехим, г. Дзержинск. Требуется комплексная поставка включающая: 1. МТР (оборудование согласно ТЗ) 2. ПИР 3. РКД 4. СМР 5. ПНР | Категория: Электрооборудование | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 10.06.2026 12:00:00 | Закупщик: Тарасов Андрей Викторович | Телефон: +7 (346) 649-44-42 доб. 4442 | Email: tarasovandv@stg.sibur.ru | Документы: euf_dpr_04_31_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133909/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Ханты-Мансийский автономный округ",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133909/1: Закупка солнечной ЭС (Сибур-Нефтехим). Предмет: Закупка солнечной электростанции для нужд Сибур-Нефтехим, г. Дзержинск. Требуется комплексная поставка включающая: 1. МТР (оборудование согласно ТЗ) 2. ПИР 3. РКД 4. СМР 5. ПНР. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 10.06.2026 12:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Тарасов Андрей Викторович. Телефон закупщика: +7 (346) 649-44-42 доб. 4442. Email закупщика: tarasovandv@stg.sibur.ru. Номенклатурная категория: Электрооборудование. Документы: euf_dpr_04_31_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Закупка солнечной ЭС (Сибур-Нефтехим)"
+    },
+    {
+      "buyerContact": "Алетдинова Татьяна Витальевна, +7 (347) 279-75-24 доб. 2601, AletdinovaTV@polief.sibur.ru",
+      "buyerEmail": "AletdinovaTV@polief.sibur.ru",
+      "buyerName": "Алетдинова Татьяна Витальевна",
+      "buyerPhone": "+7 (347) 279-75-24 доб. 2601",
+      "category": "Строительные и изоляционные материалы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133924-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2133924-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Стрейч-пленка, бумага Снегурочка",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Стрейч-пленка, бумага Снегурочка | Категория: Строительные и изоляционные материалы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 08:00:00 | Закупщик: Алетдинова Татьяна Витальевна | Телефон: +7 (347) 279-75-24 доб. 2601 | Email: AletdinovaTV@polief.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133924/1",
+      "organization": "АО \"ПОЛИЭФ\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Башкортостан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133924/1: Стрейч-пленка, бумага Снегурочка. Предмет: Стрейч-пленка, бумага Снегурочка. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 08:00:00. Организатор: АО \"ПОЛИЭФ\". Статус: Прием предложений. Закупщик: Алетдинова Татьяна Витальевна. Телефон закупщика: +7 (347) 279-75-24 доб. 2601. Email закупщика: AletdinovaTV@polief.sibur.ru. Номенклатурная категория: Строительные и изоляционные материалы. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Стрейч-пленка, бумага Снегурочка"
+    },
+    {
+      "buyerContact": "Кашапов Марат Фатихович, +7 (855) 537-19-55 доб. 1955, kashapovmf@nknh.sibur.ru",
+      "buyerEmail": "kashapovmf@nknh.sibur.ru",
+      "buyerName": "Кашапов Марат Фатихович",
+      "buyerPhone": "+7 (855) 537-19-55 доб. 1955",
+      "category": "Вспомогательные и общехозяйственные",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133923-1\\235_euf_zakupka_po_praysam_doc.docx",
+          "status": "downloaded",
+          "title": "235_euf_zakupka_po_praysam_doc.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b1f/xd7649s1au50g14rknladjl1sj8qof77.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133923-1\\156_euf_new_docx.docx",
+          "status": "downloaded",
+          "title": "156_euf_new_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/455/8lg965sc8y20megvd36pb77b116bl4wi.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133923-1\\chertezh_nozh_nkmo_084_00_00sb.pdf",
+          "status": "downloaded",
+          "title": "chertezh_nozh_nkmo_084_00_00sb.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/7f0/15ht928zg3wlvw21m5ionyjvdljbr6fh.pdf"
+        }
+      ],
+      "id": "sibur-2133923-1",
+      "items": [
+        {
+          "documents": [
+            "235_euf_zakupka_po_praysam_doc.docx",
+            "156_euf_new_docx.docx",
+            "chertezh_nozh_nkmo_084_00_00sb.pdf"
+          ],
+          "name": "Нож для нарезки каучуков -10 шт.",
+          "okpd2": null,
+          "price": null,
+          "quantity": "10",
+          "spec": "Нож для нарезки каучуков -10 шт. НОЖ должен быть сертифицирован | Категория: Вспомогательные и общехозяйственные | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 11:00:00 | Закупщик: Кашапов Марат Фатихович | Телефон: +7 (855) 537-19-55 доб. 1955 | Email: kashapovmf@nknh.sibur.ru | Документы: 235_euf_zakupka_po_praysam_doc.docx, 156_euf_new_docx.docx, chertezh_nozh_nkmo_084_00_00sb.pdf",
+          "unit": "шт"
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133923/1",
+      "organization": "ПАО \"Нижнекамскнефтехим\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133923/1: Нож для нарезки каучуков -10 шт.. Предмет: Нож для нарезки каучуков -10 шт. НОЖ должен быть сертифицирован. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 11:00:00. Организатор: ПАО \"Нижнекамскнефтехим\". Статус: Прием предложений. Закупщик: Кашапов Марат Фатихович. Телефон закупщика: +7 (855) 537-19-55 доб. 1955. Email закупщика: kashapovmf@nknh.sibur.ru. Номенклатурная категория: Вспомогательные и общехозяйственные. Документы: 235_euf_zakupka_po_praysam_doc.docx, 156_euf_new_docx.docx, chertezh_nozh_nkmo_084_00_00sb.pdf.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Нож для нарезки каучуков -10 шт."
+    },
+    {
+      "buyerContact": "Одинцова Галина Александровна, +7 (846) 374-56-77 доб. 9715, odintsovaga@biaxplen.sibur.ru",
+      "buyerEmail": "odintsovaga@biaxplen.sibur.ru",
+      "buyerName": "Одинцова Галина Александровна",
+      "buyerPhone": "+7 (846) 374-56-77 доб. 9715",
+      "category": "Системы и средства автоматизации, метрологии и КИП",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133922-1",
+      "items": [
+        {
+          "documents": [],
+          "name": "Твердомер Proceq Paper Schmidt PS8000",
+          "okpd2": null,
+          "price": null,
+          "quantity": "8000",
+          "spec": "Твердомер Proceq Paper Schmidt PS8000 (34230000) | Категория: Системы и средства автоматизации, метрологии и КИП | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 12:00:00 | Закупщик: Одинцова Галина Александровна | Телефон: +7 (846) 374-56-77 доб. 9715 | Email: odintsovaga@biaxplen.sibur.ru",
+          "unit": "т"
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 8000,
+      "noticeNumber": "2133922/1",
+      "organization": "ООО \"БИАКСПЛЕН\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133922/1: Твердомер Proceq Paper Schmidt PS8000. Предмет: Твердомер Proceq Paper Schmidt PS8000 (34230000). Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 12:00:00. Организатор: ООО \"БИАКСПЛЕН\". Статус: Прием предложений. Закупщик: Одинцова Галина Александровна. Телефон закупщика: +7 (846) 374-56-77 доб. 9715. Email закупщика: odintsovaga@biaxplen.sibur.ru. Номенклатурная категория: Системы и средства автоматизации, метрологии и КИП.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Твердомер Proceq Paper Schmidt PS8000"
+    },
+    {
+      "buyerContact": "Боченина Оксана Владимировна, +7 (861) 201-03-32 доб. 1974, BocheninaOV@newresources.ru",
+      "buyerEmail": "BocheninaOV@newresources.ru",
+      "buyerName": "Боченина Оксана Владимировна",
+      "buyerPhone": "+7 (861) 201-03-32 доб. 1974",
+      "category": "Проектные и изыскательские работы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133921-1\\4_forma_tkp_xlsx.xlsx",
+          "status": "downloaded",
+          "title": "4_forma_tkp_xlsx.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/cce/fhqca9rpmw14h64ggzz5lk3b87xq7djr.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133921-1\\2_informatsionnaya_karta_i_for.xlsx",
+          "status": "downloaded",
+          "title": "2_informatsionnaya_karta_i_for.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/bf8/m9f52yblgb5d5xgq0xaewiyr9bifvcda.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133921-1\\5_kalendarnyy_plan_nts_xlsx.xlsx",
+          "status": "downloaded",
+          "title": "5_kalendarnyy_plan_nts_xlsx.xlsx",
+          "type": "contract_template",
+          "url": "https://www.sibur.ru/upload/tmp/example/3fe/j17a9uq8efszzhkqli8ergbpx8uh2o6k.xlsx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133921-1\\6_chek_list_sootvetstviya_treb.xlsx",
+          "status": "downloaded",
+          "title": "6_chek_list_sootvetstviya_treb.xlsx",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/cef/3iqqhfn9qpsdmlvh8sbkatnqvsx4o1zi.xlsx"
+        },
+        {
+          "localPath": null,
+          "status": "available_for_download",
+          "title": "Раскрытие информации",
+          "type": "supplier_form",
+          "url": "https://e-disclosure.ru/portal/company.aspx?id=7659&amp;attempt=1"
+        }
+      ],
+      "id": "sibur-2133921-1",
+      "items": [
+        {
+          "documents": [
+            "4_forma_tkp_xlsx.xlsx",
+            "2_informatsionnaya_karta_i_for.xlsx",
+            "5_kalendarnyy_plan_nts_xlsx.xlsx",
+            "6_chek_list_sootvetstviya_treb.xlsx",
+            "Раскрытие информации"
+          ],
+          "name": "НТС ПД СТГ",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Выполнение научно – технического сопровождения проектной документации по проекту «Строительство сливной и наливной эстакад для перевалки СУГ в вагон-цистерны АО «СибурТюменьГаз» | Категория: Проектные и изыскательские работы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 08.06.2026 11:00:00 | Закупщик: Боченина Оксана Владимировна | Телефон: +7 (861) 201-03-32 доб. 1974 | Email: BocheninaOV@newresources.ru | Документы: 4_forma_tkp_xlsx.xlsx, 2_informatsionnaya_karta_i_for.xlsx, 5_kalendarnyy_plan_nts_xlsx.xlsx, 6_chek_list_sootvetstviya_treb.xlsx, Раскрытие информации",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133921/1",
+      "organization": "ООО \"Новые ресурсы\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133921/1: НТС ПД СТГ. Предмет: Выполнение научно – технического сопровождения проектной документации по проекту «Строительство сливной и наливной эстакад для перевалки СУГ в вагон-цистерны АО «СибурТюменьГаз». Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 08.06.2026 11:00:00. Организатор: ООО \"Новые ресурсы\". Статус: Прием предложений. Закупщик: Боченина Оксана Владимировна. Телефон закупщика: +7 (861) 201-03-32 доб. 1974. Email закупщика: BocheninaOV@newresources.ru. Номенклатурная категория: Проектные и изыскательские работы. Документы: 4_forma_tkp_xlsx.xlsx, 2_informatsionnaya_karta_i_for.xlsx, 5_kalendarnyy_plan_nts_xlsx.xlsx, 6_chek_list_sootvetstviya_treb.xlsx, Раскрытие информации.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "НТС ПД СТГ"
+    },
+    {
+      "buyerContact": "Костенко Анастасия Юрьевна, +7 (495) 777-55-00 доб. 6406, kostenkoayu@sibur.ru",
+      "buyerEmail": "kostenkoayu@sibur.ru",
+      "buyerName": "Костенко Анастасия Юрьевна",
+      "buyerPhone": "+7 (495) 777-55-00 доб. 6406",
+      "category": "Лабораторное оборудование и реактивы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133989-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133989-1\\ts_serebro_azksl_kh_ch_gost_12.docx",
+          "status": "downloaded",
+          "title": "ts_serebro_azksl_kh_ch_gost_12.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/16e/d3tsvnliw6luyv1x25dce0zwbkjm85y0.docx"
+        }
+      ],
+      "id": "sibur-2133989-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx",
+            "ts_serebro_azksl_kh_ch_gost_12.docx"
+          ],
+          "name": "Серебро азотнокислое для НКНХ",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Серебро азотнокислое для НКНХ | Категория: Лабораторное оборудование и реактивы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 10:00:00 | Закупщик: Костенко Анастасия Юрьевна | Телефон: +7 (495) 777-55-00 доб. 6406 | Email: kostenkoayu@sibur.ru | Документы: euf_d_pr_04_29_docx.docx, ts_serebro_azksl_kh_ch_gost_12.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133989/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133989/1: Серебро азотнокислое для НКНХ. Предмет: Серебро азотнокислое для НКНХ. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 10:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Костенко Анастасия Юрьевна. Телефон закупщика: +7 (495) 777-55-00 доб. 6406. Email закупщика: kostenkoayu@sibur.ru. Номенклатурная категория: Лабораторное оборудование и реактивы. Документы: euf_d_pr_04_29_docx.docx, ts_serebro_azksl_kh_ch_gost_12.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Серебро азотнокислое для НКНХ"
+    },
+    {
+      "buyerContact": "Чеклецов Денис Андреевич, +7 (843) 533-90-90 доб. 622403, chekletsovda@rt.sibur.ru",
+      "buyerEmail": "chekletsovda@rt.sibur.ru",
+      "buyerName": "Чеклецов Денис Андреевич",
+      "buyerPhone": "+7 (843) 533-90-90 доб. 622403",
+      "category": "Системы и средства автоматизации, метрологии и КИП",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133988-1",
+      "items": [
+        {
+          "documents": [],
+          "name": "Датчики давления APZ",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Датчики давления APZ, рассматриваются аналоги. Прошу подгрузить ТП в папку \"Техническая документация\". | Категория: Системы и средства автоматизации, метрологии и КИП | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 04.06.2026 18:00:00 | Закупщик: Чеклецов Денис Андреевич | Телефон: +7 (843) 533-90-90 доб. 622403 | Email: chekletsovda@rt.sibur.ru",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133988/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133988/1: Датчики давления APZ. Предмет: Датчики давления APZ, рассматриваются аналоги. Прошу подгрузить ТП в папку \"Техническая документация\".. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 04.06.2026 18:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Чеклецов Денис Андреевич. Телефон закупщика: +7 (843) 533-90-90 доб. 622403. Email закупщика: chekletsovda@rt.sibur.ru. Номенклатурная категория: Системы и средства автоматизации, метрологии и КИП.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Датчики давления APZ"
+    },
+    {
+      "buyerContact": "Рычагова Оксана Викторовна, +7 (345) 639-80-00 доб. 4119, rychagovaov@tobolsk.sibur.ru",
+      "buyerEmail": "rychagovaov@tobolsk.sibur.ru",
+      "buyerName": "Рычагова Оксана Викторовна",
+      "buyerPhone": "+7 (345) 639-80-00 доб. 4119",
+      "category": "Общезаводское оборудование",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133987-1",
+      "items": [
+        {
+          "documents": [],
+          "name": "Фильтры воздушные ФВК, ФВП",
+          "okpd2": null,
+          "price": null,
+          "quantity": "25",
+          "spec": "Фильтр воздушный карманный ФВК-I-892-592-300-8-G4/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-I-592-592-400-6-G4/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-1-287х287-300-3G4/25 ТУ 4863-001-86443876 Фильтр воздушный карманный ФВК-I-592-592-400-6-M5/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-I-287-592-300-3-M5/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-287-592-300-3-G4/25 ТУ 3646-001-92724912-2012 Фильтр воздушный панельный ФВП-I-592-592-48-G3/Сп ГОСТ Р ЕН 779-2014 Фильтр воздушный панельный ФВП-I-287-592-48-G3/Сп ГОСТ Р ЕН 779-2014 | Категория: Общезаводское оборудование | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 08.06.2026 14:00:00 | Закупщик: Рычагова Оксана Викторовна | Телефон: +7 (345) 639-80-00 доб. 4119 | Email: rychagovaov@tobolsk.sibur.ru",
+          "unit": "т"
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 25,
+      "noticeNumber": "2133987/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Тюменская область",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133987/1: Фильтры воздушные ФВК, ФВП. Предмет: Фильтр воздушный карманный ФВК-I-892-592-300-8-G4/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-I-592-592-400-6-G4/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-1-287х287-300-3G4/25 ТУ 4863-001-86443876 Фильтр воздушный карманный ФВК-I-592-592-400-6-M5/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-I-287-592-300-3-M5/25 ГОСТ Р ЕН 779-2014 Фильтр воздушный карманный ФВК-287-592-300-3-G4/25 ТУ 3646-001-92724912-2012 Фильтр воздушный панельный ФВП-I-592-592-48-G3/Сп ГОСТ Р ЕН 779-2014 Фильтр воздушный панельный ФВП-I-287-592-48-G3/Сп ГОСТ Р ЕН 779-2014. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 08.06.2026 14:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Рычагова Оксана Викторовна. Телефон закупщика: +7 (345) 639-80-00 доб. 4119. Email закупщика: rychagovaov@tobolsk.sibur.ru. Номенклатурная категория: Общезаводское оборудование.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Фильтры воздушные ФВК, ФВП"
+    },
+    {
+      "buyerContact": "Рычагова Оксана Викторовна, +7 (345) 639-80-00 доб. 4119, rychagovaov@tobolsk.sibur.ru",
+      "buyerEmail": "rychagovaov@tobolsk.sibur.ru",
+      "buyerName": "Рычагова Оксана Викторовна",
+      "buyerPhone": "+7 (345) 639-80-00 доб. 4119",
+      "category": "Общезаводское оборудование",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133986-1",
+      "items": [
+        {
+          "documents": [],
+          "name": "Элемент фильтрующий ФК-600-3000-0,3",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Элемент фильтрующий ФК-600-3000-0,3 или аналог в соответствии с ОЛ | Категория: Общезаводское оборудование | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 10.06.2026 11:00:00 | Закупщик: Рычагова Оксана Викторовна | Телефон: +7 (345) 639-80-00 доб. 4119 | Email: rychagovaov@tobolsk.sibur.ru",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133986/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Тюменская область",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133986/1: Элемент фильтрующий ФК-600-3000-0,3. Предмет: Элемент фильтрующий ФК-600-3000-0,3 или аналог в соответствии с ОЛ. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 10.06.2026 11:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Рычагова Оксана Викторовна. Телефон закупщика: +7 (345) 639-80-00 доб. 4119. Email закупщика: rychagovaov@tobolsk.sibur.ru. Номенклатурная категория: Общезаводское оборудование.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Элемент фильтрующий ФК-600-3000-0,3"
+    },
+    {
+      "buyerContact": "Нагишева Наталья Петровна, +7 (382) 260-69-00 доб. 427, nagishevanp@innovation.sibur.ru",
+      "buyerEmail": "nagishevanp@innovation.sibur.ru",
+      "buyerName": "Нагишева Наталья Петровна",
+      "buyerPhone": "+7 (382) 260-69-00 доб. 427",
+      "category": "Лабораторное оборудование и реактивы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2131494-2\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2131494-2",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Закупка пластомера по ТЗ",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Закупка пластомера по техническому заданию. Базис поставки: г. Казань, ул. Беломорская, 101, корп. 702а. Срок поставки: 90 календарных дней. Требуется приложить паспорт или техническое описание предлагаемого оборудования. | Категория: Лабораторное оборудование и реактивы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 04.06.2026 16:00:00 | Закупщик: Нагишева Наталья Петровна | Телефон: +7 (382) 260-69-00 доб. 427 | Email: nagishevanp@innovation.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2131494/2",
+      "organization": "ООО «СИБУР-Инновации»",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2131494/2: Закупка пластомера по ТЗ. Предмет: Закупка пластомера по техническому заданию. Базис поставки: г. Казань, ул. Беломорская, 101, корп. 702а. Срок поставки: 90 календарных дней. Требуется приложить паспорт или техническое описание предлагаемого оборудования.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 04.06.2026 16:00:00. Организатор: ООО «СИБУР-Инновации». Статус: Прием предложений. Закупщик: Нагишева Наталья Петровна. Телефон закупщика: +7 (382) 260-69-00 доб. 427. Email закупщика: nagishevanp@innovation.sibur.ru. Номенклатурная категория: Лабораторное оборудование и реактивы. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Закупка пластомера по ТЗ"
+    },
+    {
+      "buyerContact": "Лапаева Анна Владимировна, lapaevaav@rvl.sibur.ru",
+      "buyerEmail": "lapaevaav@rvl.sibur.ru",
+      "buyerName": "Лапаева Анна Владимировна",
+      "buyerPhone": null,
+      "category": "ЗИП к динамическому оборудованию",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133990-1",
+      "items": [
+        {
+          "documents": [],
+          "name": "44130798,44131661 Амортизаторы GKM",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "1. Рассматриваем как оригинал, так и аналоги. Обязательна полноценная техчасть. 2. Укажите предлагаемые техдокументы. Техчасть вкладывать в папку ТЕХ. ДОКУМЕНТАЦИЯ Сроки поставки только в календарных днях от подписания договора. 3. Доставка -Только до ворот склада РусВинил. Перегруз вне территории запрещен. -Только грузовой транспорт (запрещен въезд легковых для разгрузки). - Запрещены попутные грузы. Учитывайте эти требования при расчете стоимости и сроков доставки. 4. Квалификация SR Пройдите квалификацию по всем категориям позиций процедуры, без квалификации ТКП не принимаются к рассмотрению. | Категория: ЗИП к динамическому оборудованию | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 14:00:00 | Закупщик: Лапаева Анна Владимировна | Email: lapaevaav@rvl.sibur.ru",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133990/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Россия",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133990/1: 44130798,44131661 Амортизаторы GKM. Предмет: 1. Рассматриваем как оригинал, так и аналоги. Обязательна полноценная техчасть. 2. Укажите предлагаемые техдокументы. Техчасть вкладывать в папку ТЕХ. ДОКУМЕНТАЦИЯ Сроки поставки только в календарных днях от подписания договора. 3. Доставка -Только до ворот склада РусВинил. Перегруз вне территории запрещен. -Только грузовой транспорт (запрещен въезд легковых для разгрузки). - Запрещены попутные грузы. Учитывайте эти требования при расчете стоимости и сроков доставки. 4. Квалификация SR Пройдите квалификацию по всем категориям позиций процедуры, без квалификации ТКП не принимаются к рассмотрению.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 14:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Лапаева Анна Владимировна. Email закупщика: lapaevaav@rvl.sibur.ru. Номенклатурная категория: ЗИП к динамическому оборудованию.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "44130798,44131661 Амортизаторы GKM"
+    },
+    {
+      "buyerContact": "Шайдуллин Александр Эдуардович, +7 (843) 533-90-90 доб. 622615, shaidullinae@rt.sibur.ru",
+      "buyerEmail": "shaidullinae@rt.sibur.ru",
+      "buyerName": "Шайдуллин Александр Эдуардович",
+      "buyerPhone": "+7 (843) 533-90-90 доб. 622615",
+      "category": "Трубы и металлопрокат",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133937-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2133937-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "Прайсовый договор нерж. труба",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Прайсовый договор на нержавеющую трубу сроком действия - 2 года Прошу скачать архив \"Документация процедуры\", из архива ознакомится и заполнить файл \"Информационная карта для заполнения\" | Категория: Трубы и металлопрокат | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 10.06.2026 17:00:00 | Закупщик: Шайдуллин Александр Эдуардович | Телефон: +7 (843) 533-90-90 доб. 622615 | Email: shaidullinae@rt.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133937/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133937/1: Прайсовый договор нерж. труба. Предмет: Прайсовый договор на нержавеющую трубу сроком действия - 2 года Прошу скачать архив \"Документация процедуры\", из архива ознакомится и заполнить файл \"Информационная карта для заполнения\". Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 10.06.2026 17:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Шайдуллин Александр Эдуардович. Телефон закупщика: +7 (843) 533-90-90 доб. 622615. Email закупщика: shaidullinae@rt.sibur.ru. Номенклатурная категория: Трубы и металлопрокат. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Прайсовый договор нерж. труба"
+    },
+    {
+      "buyerContact": "Кашапов Марат Фатихович, +7 (855) 537-19-55 доб. 1955, kashapovmf@nknh.sibur.ru",
+      "buyerEmail": "kashapovmf@nknh.sibur.ru",
+      "buyerName": "Кашапов Марат Фатихович",
+      "buyerPhone": "+7 (855) 537-19-55 доб. 1955",
+      "category": "Строительные и изоляционные материалы",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133984-1\\euf_ds_04_90_docx.docx",
+          "status": "downloaded",
+          "title": "euf_ds_04_90_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b91/ch3v075qcat35r1w2ys9wbg7i6034sqc.docx"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133984-1\\euf_ds_04_51_s_konsol_ds_xlsm.xlsm",
+          "status": "downloaded",
+          "title": "euf_ds_04_51_s_konsol_ds_xlsm.xlsm",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/953/ey0tkvkrm40ns6cql1vgy810m0pmhxi3.xlsm"
+        }
+      ],
+      "id": "sibur-2133984-1",
+      "items": [
+        {
+          "documents": [
+            "euf_ds_04_90_docx.docx",
+            "euf_ds_04_51_s_konsol_ds_xlsm.xlsm"
+          ],
+          "name": "Стекло тип Б 53х12 мм ГОСТ 21836-2021",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Стекло тип Б 53х12 мм ГОСТ 21836-2021 | Категория: Строительные и изоляционные материалы | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 03.06.2026 09:00:00 | Закупщик: Кашапов Марат Фатихович | Телефон: +7 (855) 537-19-55 доб. 1955 | Email: kashapovmf@nknh.sibur.ru | Документы: euf_ds_04_90_docx.docx, euf_ds_04_51_s_konsol_ds_xlsm.xlsm",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133984/1",
+      "organization": "ПАО \"Нижнекамскнефтехим\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133984/1: Стекло тип Б 53х12 мм ГОСТ 21836-2021. Предмет: Стекло тип Б 53х12 мм ГОСТ 21836-2021. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 03.06.2026 09:00:00. Организатор: ПАО \"Нижнекамскнефтехим\". Статус: Прием предложений. Закупщик: Кашапов Марат Фатихович. Телефон закупщика: +7 (855) 537-19-55 доб. 1955. Email закупщика: kashapovmf@nknh.sibur.ru. Номенклатурная категория: Строительные и изоляционные материалы. Документы: euf_ds_04_90_docx.docx, euf_ds_04_51_s_konsol_ds_xlsm.xlsm.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Стекло тип Б 53х12 мм ГОСТ 21836-2021"
+    },
+    {
+      "buyerContact": "Парамонова Надежда Николаевна, +7 (855) 537-53-40 доб. 5340, ParamonovaNN@nknh.sibur.ru",
+      "buyerEmail": "ParamonovaNN@nknh.sibur.ru",
+      "buyerName": "Парамонова Надежда Николаевна",
+      "buyerPhone": "+7 (855) 537-53-40 доб. 5340",
+      "category": "Общезаводское оборудование",
+      "confidence": "high",
+      "documents": [],
+      "id": "sibur-2133603-2",
+      "items": [
+        {
+          "documents": [],
+          "name": "Сопло Вентури в алюминиевой оболочке",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Сопло Вентури в алюминиевой оболочке из карбида вольфрама NTC-8.0 | Категория: Общезаводское оборудование | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 12:00:00 | Закупщик: Парамонова Надежда Николаевна | Телефон: +7 (855) 537-53-40 доб. 5340 | Email: ParamonovaNN@nknh.sibur.ru",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133603/2",
+      "organization": "ПАО \"Нижнекамскнефтехим\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133603/2: Сопло Вентури в алюминиевой оболочке. Предмет: Сопло Вентури в алюминиевой оболочке из карбида вольфрама NTC-8.0. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 12:00:00. Организатор: ПАО \"Нижнекамскнефтехим\". Статус: Прием предложений. Закупщик: Парамонова Надежда Николаевна. Телефон закупщика: +7 (855) 537-53-40 доб. 5340. Email закупщика: ParamonovaNN@nknh.sibur.ru. Номенклатурная категория: Общезаводское оборудование.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Сопло Вентури в алюминиевой оболочке"
+    },
+    {
+      "buyerContact": "Шамсивалеева Адиля Азатовна, +7 (843) 512-34-56 доб. 627137, shamsivaleevaaa@kos.sibur.ru",
+      "buyerEmail": "shamsivaleevaaa@kos.sibur.ru",
+      "buyerName": "Шамсивалеева Адиля Азатовна",
+      "buyerPhone": "+7 (843) 512-34-56 доб. 627137",
+      "category": "Техническое обслуживание и ремонт",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133646-1\\proekt_dogovora_pdf.pdf",
+          "status": "downloaded",
+          "title": "proekt_dogovora_pdf.pdf",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/e5e/12pup41npojjdn8yqwgq2qwfbuu2epla.pdf"
+        },
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133646-1\\defektnaya_vedomost_xlsm.XLSM",
+          "status": "downloaded",
+          "title": "defektnaya_vedomost_xlsm.XLSM",
+          "type": "supplier_form",
+          "url": "https://www.sibur.ru/upload/tmp/example/64d/lkskevzkuoxug62m210wiz2fyvjqe6jh.XLSM"
+        }
+      ],
+      "id": "sibur-2133646-1",
+      "items": [
+        {
+          "documents": [
+            "proekt_dogovora_pdf.pdf",
+            "defektnaya_vedomost_xlsm.XLSM"
+          ],
+          "name": "ТО компрессорного оборудования ПГУ-250",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Выполнение работ по техническому обслуживанию компрессорного оборудования ПГУ-250 на ПАО \"КОС\" | Категория: Техническое обслуживание и ремонт | Способ: Запрос предложений | Опубликовано: 28.05.2026 | Подача до: 10.06.2026 10:00:00 | Закупщик: Шамсивалеева Адиля Азатовна | Телефон: +7 (843) 512-34-56 доб. 627137 | Email: shamsivaleevaaa@kos.sibur.ru | Документы: proekt_dogovora_pdf.pdf, defektnaya_vedomost_xlsm.XLSM",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133646/1",
+      "organization": "ПАО \"Казаньоргсинтез\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-05-28",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133646/1: ТО компрессорного оборудования ПГУ-250. Предмет: Выполнение работ по техническому обслуживанию компрессорного оборудования ПГУ-250 на ПАО \"КОС\". Способ закупки: Запрос предложений. Дата публикации: 28.05.2026. Срок подачи предложений: 10.06.2026 10:00:00. Организатор: ПАО \"Казаньоргсинтез\". Статус: Прием предложений. Закупщик: Шамсивалеева Адиля Азатовна. Телефон закупщика: +7 (843) 512-34-56 доб. 627137. Email закупщика: shamsivaleevaaa@kos.sibur.ru. Номенклатурная категория: Техническое обслуживание и ремонт. Документы: proekt_dogovora_pdf.pdf, defektnaya_vedomost_xlsm.XLSM.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "ТО компрессорного оборудования ПГУ-250"
+    },
+    {
+      "buyerContact": "Насибуллин Арсен Альбертович, +7 (843) 533-90-90 доб. 622538, nasibullinara@rt.sibur.ru",
+      "buyerEmail": "nasibullinara@rt.sibur.ru",
+      "buyerName": "Насибуллин Арсен Альбертович",
+      "buyerPhone": "+7 (843) 533-90-90 доб. 622538",
+      "category": "Системы и средства автоматизации, метрологии и КИП",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": "C:\\Projects\\Tender-start\\data\\procurement-documents\\sibur\\2133981-1\\euf_d_pr_04_29_docx.docx",
+          "status": "downloaded",
+          "title": "euf_d_pr_04_29_docx.docx",
+          "type": "procurement_document",
+          "url": "https://www.sibur.ru/upload/tmp/example/b22/ai14cnj9n8mqmkttaxswg6lf2flpapoj.docx"
+        }
+      ],
+      "id": "sibur-2133981-1",
+      "items": [
+        {
+          "documents": [
+            "euf_d_pr_04_29_docx.docx"
+          ],
+          "name": "КИП Газоанализаторы КЗ КОС",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "ОЛ ВО ВЛОЖЕНИИ ОЛ ЗАПОЛНЯТЬ НЕ НУЖНО. | Категория: Системы и средства автоматизации, метрологии и КИП | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 09.06.2026 12:00:00 | Закупщик: Насибуллин Арсен Альбертович | Телефон: +7 (843) 533-90-90 доб. 622538 | Email: nasibullinara@rt.sibur.ru | Документы: euf_d_pr_04_29_docx.docx",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2133981/1",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Республика Татарстан",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2133981/1: КИП Газоанализаторы КЗ КОС. Предмет: ОЛ ВО ВЛОЖЕНИИ ОЛ ЗАПОЛНЯТЬ НЕ НУЖНО.. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 09.06.2026 12:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Насибуллин Арсен Альбертович. Телефон закупщика: +7 (843) 533-90-90 доб. 622538. Email закупщика: nasibullinara@rt.sibur.ru. Номенклатурная категория: Системы и средства автоматизации, метрологии и КИП. Документы: euf_d_pr_04_29_docx.docx.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "КИП Газоанализаторы КЗ КОС"
+    },
+    {
+      "buyerContact": "Рычагова Оксана Викторовна, +7 (345) 639-80-00 доб. 4119, rychagovaov@tobolsk.sibur.ru",
+      "buyerEmail": "rychagovaov@tobolsk.sibur.ru",
+      "buyerName": "Рычагова Оксана Викторовна",
+      "buyerPhone": "+7 (345) 639-80-00 доб. 4119",
+      "category": "Общезаводское оборудование",
+      "confidence": "high",
+      "documents": [
+        {
+          "localPath": null,
+          "status": "available_for_download",
+          "title": "Раскрытие информации",
+          "type": "supplier_form",
+          "url": "https://e-disclosure.ru/portal/company.aspx?id=7659&amp;attempt=1"
+        }
+      ],
+      "id": "sibur-2132469-2",
+      "items": [
+        {
+          "documents": [
+            "Раскрытие информации"
+          ],
+          "name": "Фильтровальные элементы",
+          "okpd2": null,
+          "price": null,
+          "quantity": null,
+          "spec": "Фильтровальные элементы по перечню (отдельно поставка 3 кв, отдельно поставка 4 кв.) Обязательно вложение тех.документации в соответствующую папку | Категория: Общезаводское оборудование | Способ: Запрос предложений | Опубликовано: 02.06.2026 | Подача до: 05.06.2026 20:00:00 | Закупщик: Рычагова Оксана Викторовна | Телефон: +7 (345) 639-80-00 доб. 4119 | Email: rychagovaov@tobolsk.sibur.ru | Документы: Раскрытие информации",
+          "unit": null
+        }
+      ],
+      "law": "SIBUR SRM / commercial procurement",
+      "monthlyVolumeTons": 1,
+      "noticeNumber": "2132469/2",
+      "organization": "ПАО \"СИБУР Холдинг\"",
+      "procurementMethod": "Запрос предложений",
+      "procurementUrl": "https://srm.sibur.ru/",
+      "productId": "industrial-procurement",
+      "publishedAt": "2026-06-02",
+      "region": "Тюменская область",
+      "source": "SIBUR procurement parser",
+      "sourceDocumentText": "СИБУР закупка 2132469/2: Фильтровальные элементы. Предмет: Фильтровальные элементы по перечню (отдельно поставка 3 кв, отдельно поставка 4 кв.) Обязательно вложение тех.документации в соответствующую папку. Способ закупки: Запрос предложений. Дата публикации: 02.06.2026. Срок подачи предложений: 05.06.2026 20:00:00. Организатор: ПАО \"СИБУР Холдинг\". Статус: Прием предложений. Закупщик: Рычагова Оксана Викторовна. Телефон закупщика: +7 (345) 639-80-00 доб. 4119. Email закупщика: rychagovaov@tobolsk.sibur.ru. Номенклатурная категория: Общезаводское оборудование. Документы: Раскрытие информации.",
+      "status": "Прием предложений",
+      "targetPriceRubPerTon": 0,
+      "title": "Фильтровальные элементы"
+    },
+    {
+      "id": "seed-eis-samara-pigment-blue",
+      "organization": "Самарский завод полимерных материалов",
+      "region": "Самарская область",
+      "productId": "pigment-blue",
+      "monthlyVolumeTons": 6,
+      "targetPriceRubPerTon": 552000,
+      "source": "ЕИС/коммерческий мониторинг, seed до первого live-сбора",
+      "buyerContact": "purchase@samara-polymer-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "low"
+    },
+    {
+      "id": "seed-bash-bashneft-silica-gel",
+      "organization": "Башнефть-Уфанефтехим",
+      "region": "Башкортостан",
+      "productId": "silica-gel",
+      "monthlyVolumeTons": 12,
+      "targetPriceRubPerTon": 145000,
+      "source": "Башкортостан, seed-оценка: осушка газов/адсорбент",
+      "buyerContact": "tender@bashneft-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "low"
+    },
+    {
+      "id": "seed-bash-salavat-silica-gel",
+      "organization": "Газпром нефтехим Салават",
+      "region": "Башкортостан",
+      "productId": "silica-gel",
+      "monthlyVolumeTons": 20,
+      "targetPriceRubPerTon": 140000,
+      "source": "Башкортостан, seed-оценка: нефтехимия/адсорбент",
+      "buyerContact": "procurement@salavat-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "low"
+    },
+    {
+      "id": "seed-bash-ufa-coatings-titanium-dioxide",
+      "organization": "Уфимский лакокрасочный завод",
+      "region": "Башкортостан",
+      "productId": "titanium-dioxide",
+      "monthlyVolumeTons": 18,
+      "targetPriceRubPerTon": 360000,
+      "source": "Башкортостан, seed-оценка: ЛКМ/пигменты",
+      "buyerContact": "purchase@ufa-coatings-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "low"
+    },
+    {
+      "id": "seed-bash-ufaorgsintez-titanium-dioxide",
+      "organization": "Уфаоргсинтез",
+      "region": "Башкортостан",
+      "productId": "titanium-dioxide",
+      "monthlyVolumeTons": 10,
+      "targetPriceRubPerTon": 355000,
+      "source": "Башкортостан, seed-оценка: пластики/мастербатчи",
+      "buyerContact": "supply@ufaorgsintez-demo.example",
+      "procurementUrl": "https://zakupki.gov.ru/",
+      "publishedAt": "2026-05-21",
+      "confidence": "low"
+    }
+  ]
+}

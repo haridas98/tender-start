@@ -1,0 +1,5151 @@
+{
+  "generatedAt": "2026-06-02T22:10:33.996Z",
+  "records": [
+    {
+      "cas": "556-52-5",
+      "documents": [
+        "ТУ 38402-62-162-96",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H6O2",
+      "inchiKey": "CTKINSOISVBQLD-UHFFFAOYSA-N",
+      "iupacName": "oxiran-2-ylmethanol",
+      "molecularWeight": "74.08",
+      "name": "Глицидол",
+      "pubchem": {
+        "cas": "556-52-5",
+        "cid": 11164,
+        "inchiKey": "CTKINSOISVBQLD-UHFFFAOYSA-N",
+        "iupacName": "oxiran-2-ylmethanol",
+        "molecularFormula": "C3H6O2",
+        "molecularWeight": "74.08",
+        "synonyms": [
+          "GLYCIDOL",
+          "556-52-5",
+          "oxiran-2-ylmethanol",
+          "Oxiranemethanol",
+          "2,3-Epoxy-1-propanol",
+          "1-Propanol, 2,3-epoxy-",
+          "Glycide",
+          "Epihydrin alcohol",
+          "Oxiranylmethanol",
+          "2-(Hydroxymethyl)oxirane",
+          "Glycidyl alcohol",
+          "2,3-Epoxypropanol"
+        ]
+      },
+      "pubchemQuery": "glycidol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/11164",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-glycidol",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 38402-62-162-96"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 38402-62-162-96",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7720-78-7",
+      "documents": [
+        "ГОСТ 4148-78",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "FeO4S",
+      "inchiKey": "BAUYGSIQEAFULO-UHFFFAOYSA-L",
+      "iupacName": "iron(2+) sulfate",
+      "molecularWeight": "151.91",
+      "name": "Железо сернокислое ЧДА",
+      "pubchem": {
+        "cas": "7720-78-7",
+        "cid": 24393,
+        "inchiKey": "BAUYGSIQEAFULO-UHFFFAOYSA-L",
+        "iupacName": "iron(2+) sulfate",
+        "molecularFormula": "FeO4S",
+        "molecularWeight": "151.91",
+        "synonyms": [
+          "FERROUS SULFATE",
+          "Iron(II) sulfate",
+          "7720-78-7",
+          "Ferrous sulphate",
+          "Iron(2+) sulfate",
+          "Ferrous sulfate anhydrous",
+          "Iron sulphate",
+          "Ferrosulfate",
+          "Iron sulfate (1:1)",
+          "Combiron",
+          "Duretter",
+          "Duroferon"
+        ]
+      },
+      "pubchemQuery": "iron(II) sulfate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/24393",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-iron-ii-sulfate",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 4148-78"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 4148-78",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "115-11-7",
+      "documents": [
+        "ТУ 38.103-504-81",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H8",
+      "inchiKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+      "iupacName": "2-methylprop-1-ene",
+      "molecularWeight": "56.11",
+      "name": "Изобутилен м.А",
+      "pubchem": {
+        "cas": "115-11-7",
+        "cid": 8255,
+        "inchiKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+        "iupacName": "2-methylprop-1-ene",
+        "molecularFormula": "C4H8",
+        "molecularWeight": "56.11",
+        "synonyms": [
+          "ISOBUTYLENE",
+          "Isobutene",
+          "2-methylprop-1-ene",
+          "2-Methylpropene",
+          "115-11-7",
+          "2-Methyl-1-propene",
+          "2-Methylpropylene",
+          "1,1-Dimethylethylene",
+          "gamma-Butylene",
+          "1-Propene, 2-methyl-",
+          "Isopropylidenemethylene",
+          "Propene, 2-methyl-"
+        ]
+      },
+      "pubchemQuery": "isobutylene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/8255",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-isobutylene",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 38.103-504-81"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 38.103-504-81",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "78-79-5",
+      "documents": [
+        "ТУ 2411-005-48158319-2010 в/с",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C5H8",
+      "inchiKey": "RRHGJUQNOFWUDK-UHFFFAOYSA-N",
+      "iupacName": "2-methylbuta-1,3-diene",
+      "molecularWeight": "68.12",
+      "name": "Изопрен",
+      "pubchem": {
+        "cas": "78-79-5",
+        "cid": 6557,
+        "inchiKey": "RRHGJUQNOFWUDK-UHFFFAOYSA-N",
+        "iupacName": "2-methylbuta-1,3-diene",
+        "molecularFormula": "C5H8",
+        "molecularWeight": "68.12",
+        "synonyms": [
+          "ISOPRENE",
+          "78-79-5",
+          "2-Methyl-1,3-butadiene",
+          "2-Methylbuta-1,3-diene",
+          "Isopentadiene",
+          "2-Methylbutadiene",
+          "2-Methyldivinyl",
+          "1,3-Butadiene, 2-methyl-",
+          "beta-Methylbivinyl",
+          "3-Methyl-1,3-butadiene",
+          "DTXSID2020761",
+          "0A62964IBU"
+        ]
+      },
+      "pubchemQuery": "isoprene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/6557",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-isoprene",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2411-005-48158319-2010 в/с"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 2411-005-48158319-2010 в/с",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Катализатор БАК-70",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-katalizator-bak-70",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 0258-01848120848-2002",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Масло ПН-6 (ЭСО)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-maslo-pn-6-eso",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 0258-01848120848-2002"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 0258-01848120848-2002",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "ТИБА",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-tiba",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 204 64-75",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Уголь АГ-3",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-ugol-ag-3",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 204 64-75"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 204 64-75",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "108-95-2",
+      "documents": [
+        "ГОСТ 23519-93",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C6H6O",
+      "inchiKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+      "iupacName": "phenol",
+      "molecularWeight": "94.11",
+      "name": "Фенол",
+      "pubchem": {
+        "cas": "108-95-2",
+        "cid": 996,
+        "inchiKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+        "iupacName": "phenol",
+        "molecularFormula": "C6H6O",
+        "molecularWeight": "94.11",
+        "synonyms": [
+          "phenol",
+          "108-95-2",
+          "carbolic acid",
+          "Hydroxybenzene",
+          "Phenic acid",
+          "Oxybenzene",
+          "Benzenol",
+          "Phenylic acid",
+          "Phenylic alcohol",
+          "Monophenol",
+          "Phenyl hydrate",
+          "Phenyl hydroxide"
+        ]
+      },
+      "pubchemQuery": "phenol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/996",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-phenol",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 23519-93"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 23519-93",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "50-00-0",
+      "documents": [
+        "ГОСТ 1625-89",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CH2O",
+      "inchiKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+      "iupacName": "formaldehyde",
+      "molecularWeight": "30.026",
+      "name": "Формалин технический",
+      "pubchem": {
+        "cas": "50-00-0",
+        "cid": 712,
+        "inchiKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+        "iupacName": "formaldehyde",
+        "molecularFormula": "CH2O",
+        "molecularWeight": "30.026",
+        "synonyms": [
+          "formaldehyde",
+          "formalin",
+          "methanal",
+          "50-00-0",
+          "formol",
+          "Formic aldehyde",
+          "Methylene oxide",
+          "Oxomethane",
+          "Oxymethylene",
+          "Methyl aldehyde",
+          "Superlysoform",
+          "Lysoform"
+        ]
+      },
+      "pubchemQuery": "formaldehyde",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/712",
+      "responsible": {
+        "email": "zaharov.ra@ruschem.ru",
+        "name": "Захаров Роман Александрович",
+        "phone": "+7 (3473) 29-42-22",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-formaldehyde",
+      "source": "СНХЗ: Захаров Роман Александрович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 1625-89"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 1625-89",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Жидкость этиловая",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-zhidkost-etilovaya",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1310-58-3",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "HKO",
+      "inchiKey": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+      "iupacName": "potassium hydroxide",
+      "molecularWeight": "56.106",
+      "name": "Калий едкий плавленный",
+      "pubchem": {
+        "cas": "1310-58-3",
+        "cid": 14797,
+        "inchiKey": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+        "iupacName": "potassium hydroxide",
+        "molecularFormula": "HKO",
+        "molecularWeight": "56.106",
+        "synonyms": [
+          "POTASSIUM HYDROXIDE",
+          "1310-58-3",
+          "Caustic potash",
+          "Potash lye",
+          "Potassium hydrate",
+          "Hydroxyde de potassium",
+          "Potassa",
+          "Potasse caustique",
+          "Potassium hydroxide (K(OH))",
+          "Caustic-potash",
+          "Kali causticum",
+          "Caswell No. 693"
+        ]
+      },
+      "pubchemQuery": "potassium hydroxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14797",
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-potassium-hydroxide",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 322-7-00190503-038-95",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Каолин",
+      "pubchem": null,
+      "pubchemQuery": "kaolin",
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-kaolin",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 322-7-00190503-038-95"
+      ],
+      "status": "pubchem_not_found",
+      "tenderSpec": "ТУ 322-7-00190503-038-95",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Краситель зеленый",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-krasitel-zelenyy",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Краситель синий",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-krasitel-siniy",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Оксид гадолиния",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-oksid-gadoliniya",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Присадка антикорозийная Hitec580",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-prisadka-antikoroziynaya-hitec580",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Присадка антистатистическая Stadis-450",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-prisadka-antistatisticheskaya-stadis-450",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Третичный додецилмеркаптан",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-tretichnyy-dodecilmerkaptan",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "102-54-5",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C10H10Fe",
+      "inchiKey": "DFRHTHSZMBROSH-UHFFFAOYSA-N",
+      "iupacName": null,
+      "molecularWeight": "186.03",
+      "name": "Ферроцен",
+      "pubchem": {
+        "cas": "102-54-5",
+        "cid": 10219726,
+        "inchiKey": "DFRHTHSZMBROSH-UHFFFAOYSA-N",
+        "iupacName": null,
+        "molecularFormula": "C10H10Fe",
+        "molecularWeight": "186.03",
+        "synonyms": [
+          "Dicyclopentadienyliron",
+          "RefChem:389371",
+          "DI-PI-CYCLOPENTADIENYL IRON",
+          "DTXCID101781909",
+          "bis(eta(5)-cyclopentadienyl)iron;bis(eta(5)-cyclopentadienyl)iron(II);ferrocene",
+          "203-039-3",
+          "102-54-5",
+          "bis(Cyclopentadienyl)iron",
+          "Biscyclopentadienyliron",
+          "Catane",
+          "CHEBI:30672",
+          "Di(pi-cyclopentadienyl)iron"
+        ]
+      },
+      "pubchemQuery": "ferrocene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/10219726",
+      "responsible": {
+        "email": "chinkaraeva.da@ruschem.ru",
+        "name": "Чинкараева Дина Алексеевна",
+        "phone": "+7 (3473) 29-41-41",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-ferrocene",
+      "source": "СНХЗ: Чинкараева Дина Алексеевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ BY 4000091131.001-2008, СТО 00135646-2.01-2012, СТО 05747181-036-2018, СТО 00148725-013-2017",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Высокооктановый компонент автомобильного и авиационного бензина - алкилат",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-vysokooktanovyy-komponent-avtomobilnogo-i-aviacionnogo-benzina-alkilat",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ BY 4000091131.001-2008",
+        "СТО 00135646-2.01-2012",
+        "СТО 05747181-036-2018",
+        "СТО 00148725-013-2017"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ BY 4000091131.001-2008, СТО 00135646-2.01-2012, СТО 05747181-036-2018, СТО 00148725-013-2017",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2481-026-05766480-2006 с изм. 1,2 или ТУ 20.41.20-015-71150986-2019",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Алкилбензолсульфокислота, марка \\",
+      "pubchem": null,
+      "pubchemQuery": "dodecylbenzenesulfonic acid",
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-dodecylbenzenesulfonic-acid",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2481-026-05766480-2006 с изм. 1"
+      ],
+      "status": "pubchem_not_found",
+      "tenderSpec": "ТУ 2481-026-05766480-2006 с изм. 1,2 или ТУ 20.41.20-015-71150986-2019",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "98-83-9",
+      "documents": [
+        "ТУ 38.103679-89 с изм. 1-4",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C9H10",
+      "inchiKey": "XYLMUPLGERFSHI-UHFFFAOYSA-N",
+      "iupacName": "prop-1-en-2-ylbenzene",
+      "molecularWeight": "118.18",
+      "name": "Альфаметилстирол",
+      "pubchem": {
+        "cas": "98-83-9",
+        "cid": 7407,
+        "inchiKey": "XYLMUPLGERFSHI-UHFFFAOYSA-N",
+        "iupacName": "prop-1-en-2-ylbenzene",
+        "molecularFormula": "C9H10",
+        "molecularWeight": "118.18",
+        "synonyms": [
+          "alpha-Methylstyrene",
+          "98-83-9",
+          "2-Phenylpropene",
+          "2-Phenyl-1-propene",
+          "2-Phenylpropylene",
+          "Benzene, (1-methylethenyl)-",
+          "1-Methyl-1-phenylethylene",
+          "alpha-Methylstyrol",
+          "1-Phenyl-1-methylethylene",
+          "beta-Phenylpropylene",
+          "1-Methyl-1-phenylethene",
+          "beta-Phenylpropene"
+        ]
+      },
+      "pubchemQuery": "alpha-methylstyrene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7407",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-alpha-methylstyrene",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 38.103679-89 с изм. 1-4"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 38.103679-89 с изм. 1-4",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 5279-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Графит кристаллический литейный, марка ГЛ-1",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-grafit-kristallicheskiy-liteynyy-marka-gl-1",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 5279-74"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 5279-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 0255-023-05766480-2006 с изм. 1, 2",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Парафин нефтяной жидкий, фракция С14-С17",
+      "pubchem": null,
+      "pubchemQuery": "paraffin",
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-paraffin",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 0255-023-05766480-2006 с изм. 1"
+      ],
+      "status": "pubchem_not_found",
+      "tenderSpec": "ТУ 0255-023-05766480-2006 с изм. 1, 2",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Реагенты для водоподготовки (биоциды, бактерициды, биодисперсанты, ингибиторы коррозии)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-reagenty-dlya-vodopodgotovki-biocidy-baktericidy-biodispersanty-ingibitory-korrozii",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Смола TULSION A-23 (Анионит)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-smola-tulsion-a-23-anionit",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2227-344-002034447-99",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Смола АН-31 (Анионит)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-smola-an-31-anionit",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2227-344-002034447-99"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2227-344-002034447-99",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 20298-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Смола КУ-2-8 (Катионит)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-smola-ku-2-8-kationit",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 20298-74"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 20298-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "71-36-3",
+      "documents": [
+        "ГОСТ 5208-2013",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H10O",
+      "inchiKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+      "iupacName": "butan-1-ol",
+      "molecularWeight": "74.12",
+      "name": "Спирт бутиловый нормальный технический, марка А",
+      "pubchem": {
+        "cas": "71-36-3",
+        "cid": 263,
+        "inchiKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+        "iupacName": "butan-1-ol",
+        "molecularFormula": "C4H10O",
+        "molecularWeight": "74.12",
+        "synonyms": [
+          "1-butanol",
+          "Butan-1-ol",
+          "n-butanol",
+          "71-36-3",
+          "Butyl alcohol",
+          "n-butyl alcohol",
+          "Propylcarbinol",
+          "1-hydroxybutane",
+          "Butyl hydroxide",
+          "Methylolpropane",
+          "Propylmethanol",
+          "Butyric alcohol"
+        ]
+      },
+      "pubchemQuery": "1-butanol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/263",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-1-butanol",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 5208-2013"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 5208-2013",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "67-63-0",
+      "documents": [
+        "ГОСТ 9805-84 с изм.1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H8O",
+      "inchiKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+      "iupacName": "propan-2-ol",
+      "molecularWeight": "60.10",
+      "name": "Спирт изопропиловый абсолютированный",
+      "pubchem": {
+        "cas": "67-63-0",
+        "cid": 3776,
+        "inchiKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+        "iupacName": "propan-2-ol",
+        "molecularFormula": "C3H8O",
+        "molecularWeight": "60.10",
+        "synonyms": [
+          "Isopropyl alcohol",
+          "isopropanol",
+          "2-Propanol",
+          "Propan-2-ol",
+          "67-63-0",
+          "2-Hydroxypropane",
+          "Dimethylcarbinol",
+          "sec-Propyl alcohol",
+          "Alkolave",
+          "Avantine",
+          "Hartosol",
+          "Petrohol"
+        ]
+      },
+      "pubchemQuery": "isopropyl alcohol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/3776",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-isopropyl-alcohol",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 9805-84 с изм.1"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 9805-84 с изм.1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1344-09-8",
+      "documents": [
+        "ГОСТ 13978-81",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Na2O3Si",
+      "inchiKey": "NTHWMYGWWRZVTN-UHFFFAOYSA-N",
+      "iupacName": "disodium;dioxido(oxo)silane",
+      "molecularWeight": "122.063",
+      "name": "Стекло натриевое жидкое",
+      "pubchem": {
+        "cas": "1344-09-8",
+        "cid": 23266,
+        "inchiKey": "NTHWMYGWWRZVTN-UHFFFAOYSA-N",
+        "iupacName": "disodium;dioxido(oxo)silane",
+        "molecularFormula": "Na2O3Si",
+        "molecularWeight": "122.063",
+        "synonyms": [
+          "SODIUM SILICATE",
+          "Waterglass",
+          "Sodium siliconate",
+          "Sodium sesquisilicate",
+          "Sodium silicate glass",
+          "Sodium water glass",
+          "Britesil",
+          "Carsil",
+          "Dryseq",
+          "Sikalon",
+          "Silican",
+          "Soluble glass"
+        ]
+      },
+      "pubchemQuery": "sodium silicate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/23266",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-silicate",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 13978-81"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 13978-81",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "10043-01-3",
+      "documents": [
+        "ГОСТ 12966-85 с изм. 1,2.",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Al2O12S3",
+      "inchiKey": "DIZPMCHEQGEION-UHFFFAOYSA-H",
+      "iupacName": "dialuminum;trisulfate",
+      "molecularWeight": "342.2",
+      "name": "Сульфат алюминия технический очищенный, сорт первый",
+      "pubchem": {
+        "cas": "10043-01-3",
+        "cid": 24850,
+        "inchiKey": "DIZPMCHEQGEION-UHFFFAOYSA-H",
+        "iupacName": "dialuminum;trisulfate",
+        "molecularFormula": "Al2O12S3",
+        "molecularWeight": "342.2",
+        "synonyms": [
+          "ALUMINUM SULFATE",
+          "10043-01-3",
+          "Aluminium sulfate",
+          "Dialuminum trisulfate",
+          "Aluminum sulfate anhydrous",
+          "Aluminium sulphate",
+          "Dialuminum sulfate",
+          "Aluminum alum",
+          "Sulfuric acid, aluminum salt",
+          "Filter Alum",
+          "Pickle Alum",
+          "Sulfuric acid, aluminum salt (3:2)"
+        ]
+      },
+      "pubchemQuery": "aluminum sulfate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/24850",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-aluminum-sulfate",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 12966-85 с изм. 1"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 12966-85 с изм. 1,2.",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7550-45-0",
+      "documents": [
+        "ТУ 20.13.31-455-57812344-2022",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Cl4Ti",
+      "inchiKey": "XJDNKRIXUMDJCW-UHFFFAOYSA-J",
+      "iupacName": "tetrachlorotitanium",
+      "molecularWeight": "189.7",
+      "name": "Тетрохлорид титана, марка ОТТ-0",
+      "pubchem": {
+        "cas": "7550-45-0",
+        "cid": 24193,
+        "inchiKey": "XJDNKRIXUMDJCW-UHFFFAOYSA-J",
+        "iupacName": "tetrachlorotitanium",
+        "molecularFormula": "Cl4Ti",
+        "molecularWeight": "189.7",
+        "synonyms": [
+          "TITANIUM TETRACHLORIDE",
+          "Tetrachlorotitanium",
+          "TiCl4",
+          "Titanic chloride",
+          "Titanium chloride (TiCl4)",
+          "Titantetrachlorid",
+          "Titaantetrachloride",
+          "Tetrachlorure de titane",
+          "Titanium chloride (TiCl4) (T-4)-",
+          "Titanium chloride (TiCl4), (T-4)-",
+          "DTXSID8042476",
+          "Titane (tetrachlorure de)"
+        ]
+      },
+      "pubchemQuery": "titanium tetrachloride",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/24193",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-titanium-tetrachloride",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 20.13.31-455-57812344-2022"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 20.13.31-455-57812344-2022",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "102-71-6",
+      "documents": [
+        "ТУ 2423-168-00203335-2007",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C6H15NO3",
+      "inchiKey": "GSEJCLTVZPLZKY-UHFFFAOYSA-N",
+      "iupacName": "2-[bis(2-hydroxyethyl)amino]ethanol",
+      "molecularWeight": "149.19",
+      "name": "Триэтаноламин марка А",
+      "pubchem": {
+        "cas": "102-71-6",
+        "cid": 7618,
+        "inchiKey": "GSEJCLTVZPLZKY-UHFFFAOYSA-N",
+        "iupacName": "2-[bis(2-hydroxyethyl)amino]ethanol",
+        "molecularFormula": "C6H15NO3",
+        "molecularWeight": "149.19",
+        "synonyms": [
+          "TRIETHANOLAMINE",
+          "Trolamine",
+          "102-71-6",
+          "2,2',2''-Nitrilotriethanol",
+          "Sterolamide",
+          "Daltogen",
+          "Tris(2-hydroxyethyl)amine",
+          "Nitrilotriethanol",
+          "Triethylolamine",
+          "Trihydroxytriethylamine",
+          "Thiofaco T-35",
+          "Sting-Kill"
+        ]
+      },
+      "pubchemQuery": "triethanolamine",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7618",
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-triethanolamine",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2423-168-00203335-2007"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 2423-168-00203335-2007",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2163-003-15285215-2006, (СТО 61182334-006-2011), ТУ 38.10281-88, ТУ 2163-077-05766575-99",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Цеолиты NaA-У (NaA-БС), NaX",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "skuin.ii@ruschem.ru",
+        "name": "Скуин Игорь Иванович",
+        "phone": "+7 (3473) 29-46-56",
+        "role": "заместитель начальника отдела снабжения сырьем"
+      },
+      "slug": "snhz-ceolity-naa-u-naa-bs-nax",
+      "source": "СНХЗ: Скуин Игорь Иванович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2163-003-15285215-2006",
+        "ТУ 38.10281-88",
+        "ТУ 2163-077-05766575-99"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2163-003-15285215-2006, (СТО 61182334-006-2011), ТУ 38.10281-88, ТУ 2163-077-05766575-99",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1313-27-5",
+      "documents": [
+        "ГОСТ 2677-78, ТУ 6-09-4471-77",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "MoO3",
+      "inchiKey": "JKQOBWVOAYFWKG-UHFFFAOYSA-N",
+      "iupacName": "trioxomolybdenum",
+      "molecularWeight": "143.95",
+      "name": "Ангидрид молибденовый",
+      "pubchem": {
+        "cas": "1313-27-5",
+        "cid": 14802,
+        "inchiKey": "JKQOBWVOAYFWKG-UHFFFAOYSA-N",
+        "iupacName": "trioxomolybdenum",
+        "molecularFormula": "MoO3",
+        "molecularWeight": "143.95",
+        "synonyms": [
+          "MOLYBDENUM TRIOXIDE",
+          "1313-27-5",
+          "Molybdenum(VI) oxide",
+          "Molybdic anhydride",
+          "Molybdenum oxide (MoO3)",
+          "Molybdic trioxide",
+          "Molybdena",
+          "MoO3",
+          "Molybdic acid anhydride",
+          "Molybdic oxide",
+          "Molybdenum peroxide",
+          "Molybdenumperoxide"
+        ]
+      },
+      "pubchemQuery": "molybdenum trioxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14802",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-molybdenum-trioxide",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2677-78",
+        "ТУ 6-09-4471-77"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2677-78, ТУ 6-09-4471-77",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1333-82-0",
+      "documents": [
+        "ГОСТ 2548-77",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CrO3",
+      "inchiKey": "WGLPBDUCMAPZCE-UHFFFAOYSA-N",
+      "iupacName": "trioxochromium",
+      "molecularWeight": "99.994",
+      "name": "Ангидрид хромовый",
+      "pubchem": {
+        "cas": "1333-82-0",
+        "cid": 14915,
+        "inchiKey": "WGLPBDUCMAPZCE-UHFFFAOYSA-N",
+        "iupacName": "trioxochromium",
+        "molecularFormula": "CrO3",
+        "molecularWeight": "99.994",
+        "synonyms": [
+          "Chromium trioxide",
+          "trioxochromium",
+          "Chromium(VI) oxide",
+          "CrO3",
+          "Chromtrioxid",
+          "Monochromium trioxide",
+          "CHROMIC TRIOXIDE",
+          "Chromsaeureanhydrid",
+          "Anhydride chromique",
+          "Chromium(6+) oxide",
+          "Chromia (CrO3)",
+          "Chroomtrioxyde"
+        ]
+      },
+      "pubchemQuery": "chromium trioxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14915",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-chromium-trioxide",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2548-77"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2548-77",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2492-465-05763441-2004",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Антиоксидант С-789 (Новантокс)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-antioksidant-s-789-novantoks",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2492-465-05763441-2004"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2492-465-05763441-2004",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "ДБЛО (Метатин)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dblo-metatin",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Десмодур Т-102Т",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-desmodur-t-102t",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7720-78-7",
+      "documents": [
+        "ГОСТ 6981-94",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "FeO4S",
+      "inchiKey": "BAUYGSIQEAFULO-UHFFFAOYSA-L",
+      "iupacName": "iron(2+) sulfate",
+      "molecularWeight": "151.91",
+      "name": "Железный купорос",
+      "pubchem": {
+        "cas": "7720-78-7",
+        "cid": 24393,
+        "inchiKey": "BAUYGSIQEAFULO-UHFFFAOYSA-L",
+        "iupacName": "iron(2+) sulfate",
+        "molecularFormula": "FeO4S",
+        "molecularWeight": "151.91",
+        "synonyms": [
+          "FERROUS SULFATE",
+          "Iron(II) sulfate",
+          "7720-78-7",
+          "Ferrous sulphate",
+          "Iron(2+) sulfate",
+          "Ferrous sulfate anhydrous",
+          "Iron sulphate",
+          "Ferrosulfate",
+          "Iron sulfate (1:1)",
+          "Combiron",
+          "Duretter",
+          "Duroferon"
+        ]
+      },
+      "pubchemQuery": "iron(II) sulfate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/24393",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-iron-ii-sulfate",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 6981-94"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 6981-94",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "584-08-7",
+      "documents": [
+        "ГОСТ 4221-76, м.Ч или ГОСТ 10690-73, сорт1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CK2O3",
+      "inchiKey": "BWHMMNNQKKPAPP-UHFFFAOYSA-L",
+      "iupacName": "dipotassium;carbonate",
+      "molecularWeight": "138.205",
+      "name": "Калий углекислый (Поташ)",
+      "pubchem": {
+        "cas": "584-08-7",
+        "cid": 11430,
+        "inchiKey": "BWHMMNNQKKPAPP-UHFFFAOYSA-L",
+        "iupacName": "dipotassium;carbonate",
+        "molecularFormula": "CK2O3",
+        "molecularWeight": "138.205",
+        "synonyms": [
+          "POTASSIUM CARBONATE",
+          "584-08-7",
+          "Dipotassium carbonate",
+          "Carbonate of potash",
+          "Potassium carbonate, anhydrous",
+          "Carbonic acid, dipotassium salt",
+          "Pearl ash",
+          "Salt of tartar",
+          "Kaliumcarbonat",
+          "Kalium carbonicum",
+          "K-Gran",
+          "Potassium carbonate (K2CO3)"
+        ]
+      },
+      "pubchemQuery": "potassium carbonate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/11430",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-potassium-carbonate",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 4221-76"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 4221-76, м.Ч или ГОСТ 10690-73, сорт1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "537-01-9",
+      "documents": [
+        "ТУ 1767-001-57888672-2010, ТУ 176743-001-57888672-2009, СТ ТОО 74-1917-12-20.13-05-2011, СТО 00203789-060-2013 или спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3Ce2O9",
+      "inchiKey": "GHLITDDQOMIBFS-UHFFFAOYSA-H",
+      "iupacName": "bis(cerium(3+));tricarbonate",
+      "molecularWeight": "460.26",
+      "name": "Карбонат церия (CeO2/TREO min 99,78%)",
+      "pubchem": {
+        "cas": "537-01-9",
+        "cid": 160516,
+        "inchiKey": "GHLITDDQOMIBFS-UHFFFAOYSA-H",
+        "iupacName": "bis(cerium(3+));tricarbonate",
+        "molecularFormula": "C3Ce2O9",
+        "molecularWeight": "460.26",
+        "synonyms": [
+          "Cerium(III) carbonate",
+          "Cerium carbonate",
+          "Cerous carbonate",
+          "Carbonic acid, cerium salt",
+          "537-01-9",
+          "Cerium tricarbonate",
+          "14623-75-7",
+          "Carbonic acid, cerium(3+) salt (3:2)",
+          "Cerium carbonate (VAN)",
+          "Cerium carbonate (Ce2(CO3)3)",
+          "CTT48UBF1V",
+          "Carbonic acid, cerium salt (1:?)"
+        ]
+      },
+      "pubchemQuery": "cerium carbonate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/160516",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-cerium-carbonate",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 1767-001-57888672-2010",
+        "ТУ 176743-001-57888672-2009",
+        "СТ ТОО 74-1917-12-20.13-05-2011",
+        "СТО 00203789-060-2013 или спецификация"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 1767-001-57888672-2010, ТУ 176743-001-57888672-2009, СТ ТОО 74-1917-12-20.13-05-2011, СТО 00203789-060-2013 или спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1309-48-4",
+      "documents": [
+        "ТУ 6-09-3023-79 или ГОСТ 4526-75, с изм. 1.",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "MgO",
+      "inchiKey": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+      "iupacName": "oxomagnesium",
+      "molecularWeight": "40.305",
+      "name": "Магний оксид, марки «Ч»",
+      "pubchem": {
+        "cas": "1309-48-4",
+        "cid": 14792,
+        "inchiKey": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "iupacName": "oxomagnesium",
+        "molecularFormula": "MgO",
+        "molecularWeight": "40.305",
+        "synonyms": [
+          "Magnesia",
+          "Granmag",
+          "Heavy magnesium oxide",
+          "Calcined magnesia",
+          "Seawater magnesia",
+          "Anscor P",
+          "Magnesium oxide (MgO)",
+          "Animag",
+          "Magcal",
+          "Marmag",
+          "Oxymag",
+          "Seasorb"
+        ]
+      },
+      "pubchemQuery": "magnesium oxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14792",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-magnesium-oxide",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 6-09-3023-79 или ГОСТ 4526-75"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 6-09-3023-79 или ГОСТ 4526-75, с изм. 1.",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "108-31-6",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H2O3",
+      "inchiKey": "FPYJFEHAWHCUMM-UHFFFAOYSA-N",
+      "iupacName": "furan-2,5-dione",
+      "molecularWeight": "98.06",
+      "name": "Малеиновый ангидрид",
+      "pubchem": {
+        "cas": "108-31-6",
+        "cid": 7923,
+        "inchiKey": "FPYJFEHAWHCUMM-UHFFFAOYSA-N",
+        "iupacName": "furan-2,5-dione",
+        "molecularFormula": "C4H2O3",
+        "molecularWeight": "98.06",
+        "synonyms": [
+          "MALEIC ANHYDRIDE",
+          "2,5-Furandione",
+          "furan-2,5-dione",
+          "108-31-6",
+          "Toxilic anhydride",
+          "Maleic acid anhydride",
+          "cis-Butenedioic anhydride",
+          "Dihydro-2,5-dioxofuran",
+          "Maleinanhydrid",
+          "RCRA waste number U147",
+          "2,5-Furanedione",
+          "Anhydrid kyseliny maleinove"
+        ]
+      },
+      "pubchemQuery": "maleic anhydride",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7923",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-maleic-anhydride",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1310-73-2",
+      "documents": [
+        "ГОСТ 2263-79",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "HNaO",
+      "inchiKey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+      "iupacName": "sodium hydroxide",
+      "molecularWeight": "39.997",
+      "name": "Натрий едкий жидкий",
+      "pubchem": {
+        "cas": "1310-73-2",
+        "cid": 14798,
+        "inchiKey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+        "iupacName": "sodium hydroxide",
+        "molecularFormula": "HNaO",
+        "molecularWeight": "39.997",
+        "synonyms": [
+          "SODIUM HYDROXIDE",
+          "1310-73-2",
+          "Caustic soda",
+          "Sodium hydrate",
+          "Aetznatron",
+          "Soda lye",
+          "White caustic",
+          "Soda, caustic",
+          "Natriumhydroxid",
+          "Rohrputz",
+          "Plung",
+          "Collo-Grillrein"
+        ]
+      },
+      "pubchemQuery": "sodium hydroxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14798",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-hydroxide",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2263-79"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2263-79",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7786-81-4",
+      "documents": [
+        "ГОСТ 2665-86, ГОСТ 4465-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "NiO4S",
+      "inchiKey": "LGQLOGILCSXPEA-UHFFFAOYSA-L",
+      "iupacName": "nickel(2+) sulfate",
+      "molecularWeight": "154.76",
+      "name": "Никель сернокислый м.ХЧ, ЧДА",
+      "pubchem": {
+        "cas": "7786-81-4",
+        "cid": 24586,
+        "inchiKey": "LGQLOGILCSXPEA-UHFFFAOYSA-L",
+        "iupacName": "nickel(2+) sulfate",
+        "molecularFormula": "NiO4S",
+        "molecularWeight": "154.76",
+        "synonyms": [
+          "NICKEL SULFATE",
+          "Nickel sulphate",
+          "Nickelous sulfate",
+          "Nickel(II) sulfate",
+          "7786-81-4",
+          "Nickel(2+) sulfate",
+          "Nickel sulfate(1:1)",
+          "Nickel(II) sulfate (1:1)",
+          "NiSO4",
+          "Nickel(2+) sulfate (1:1)",
+          "Sulfuric acid, nickel(2+)salt",
+          "Sulphuric acid, nickel(II) salt"
+        ]
+      },
+      "pubchemQuery": "nickel sulfate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/24586",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-nickel-sulfate",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2665-86",
+        "ГОСТ 4465-74"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2665-86, ГОСТ 4465-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7632-00-0",
+      "documents": [
+        "ГОСТ 19906-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "NNaO2",
+      "inchiKey": "LPXPTNMVRIOKMN-UHFFFAOYSA-M",
+      "iupacName": "sodium nitrite",
+      "molecularWeight": "68.995",
+      "name": "Нитрит натрия",
+      "pubchem": {
+        "cas": "7632-00-0",
+        "cid": 23668193,
+        "inchiKey": "LPXPTNMVRIOKMN-UHFFFAOYSA-M",
+        "iupacName": "sodium nitrite",
+        "molecularFormula": "NNaO2",
+        "molecularWeight": "68.995",
+        "synonyms": [
+          "SODIUM NITRITE",
+          "7632-00-0",
+          "Nitrous acid, sodium salt",
+          "Nitrite, sodium",
+          "Erinitrit",
+          "Filmerine",
+          "Natrium nitrit",
+          "Nitrito sodico",
+          "Anti-rust",
+          "Nitrite de sodium",
+          "Natrum nitrosum",
+          "Azotyn sodowy"
+        ]
+      },
+      "pubchemQuery": "sodium nitrite",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/23668193",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-nitrite",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 19906-74"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 19906-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 18172-80",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Пигмент желтый железоокисный, марка Ж-1",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-pigment-zheltyy-zhelezookisnyy-marka-zh-1",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 18172-80"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 18172-80",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "74-98-6",
+      "documents": [
+        "ТУ 0272-023-00151638-99, с изм. 1.",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H8",
+      "inchiKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+      "iupacName": "propane",
+      "molecularWeight": "44.10",
+      "name": "Пропановая фракция, марка \\",
+      "pubchem": {
+        "cas": "74-98-6",
+        "cid": 6334,
+        "inchiKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+        "iupacName": "propane",
+        "molecularFormula": "C3H8",
+        "molecularWeight": "44.10",
+        "synonyms": [
+          "PROPANE",
+          "n-Propane",
+          "Dimethylmethane",
+          "Propyl hydride",
+          "74-98-6",
+          "Propyldihydride",
+          "Purifrigor p 3.5",
+          "HC 290",
+          "R 290",
+          "INS NO.944",
+          "DTXSID5026386",
+          "E944"
+        ]
+      },
+      "pubchemQuery": "propane",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/6334",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-propane",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 0272-023-00151638-99"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 0272-023-00151638-99, с изм. 1.",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Таурит",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-taurit",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "108-88-3",
+      "documents": [
+        "ГОСТ 14710-78",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C7H8",
+      "inchiKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+      "iupacName": "toluene",
+      "molecularWeight": "92.14",
+      "name": "Толуол нефтяной, высший сорт",
+      "pubchem": {
+        "cas": "108-88-3",
+        "cid": 1140,
+        "inchiKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+        "iupacName": "toluene",
+        "molecularFormula": "C7H8",
+        "molecularWeight": "92.14",
+        "synonyms": [
+          "toluene",
+          "methylbenzene",
+          "toluol",
+          "108-88-3",
+          "Phenylmethane",
+          "methacide",
+          "methylbenzol",
+          "antisal 1a",
+          "Benzene, methyl-",
+          "Toluen",
+          "tolu-sol",
+          "monomethyl benzene"
+        ]
+      },
+      "pubchemQuery": "toluene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/1140",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-toluene",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 14710-78"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 14710-78",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "108-94-1",
+      "documents": [
+        "ГОСТ 24615-81",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C6H10O",
+      "inchiKey": "JHIVVAPYMSGYDF-UHFFFAOYSA-N",
+      "iupacName": "cyclohexanone",
+      "molecularWeight": "98.14",
+      "name": "Циклогексанон",
+      "pubchem": {
+        "cas": "108-94-1",
+        "cid": 7967,
+        "inchiKey": "JHIVVAPYMSGYDF-UHFFFAOYSA-N",
+        "iupacName": "cyclohexanone",
+        "molecularFormula": "C6H10O",
+        "molecularWeight": "98.14",
+        "synonyms": [
+          "CYCLOHEXANONE",
+          "108-94-1",
+          "Ketohexamethylene",
+          "Pimelic ketone",
+          "Sextone",
+          "Nadone",
+          "Anone",
+          "Anon",
+          "Hytrol O",
+          "Cyclohexanon",
+          "Hexanon",
+          "ketocyclohexane"
+        ]
+      },
+      "pubchemQuery": "cyclohexanone",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7967",
+      "responsible": {
+        "email": "arduvanova.ayu@ruschem.ru",
+        "name": "Ардуванова Александра Юрьевна",
+        "phone": "+7 (3473) 29-41-28",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-cyclohexanone",
+      "source": "СНХЗ: Ардуванова Александра Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 24615-81"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 24615-81",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7727-37-9",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "N2",
+      "inchiKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+      "iupacName": "molecular nitrogen",
+      "molecularWeight": "28.014",
+      "name": "Азот газообразный",
+      "pubchem": {
+        "cas": "7727-37-9",
+        "cid": 947,
+        "inchiKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "iupacName": "molecular nitrogen",
+        "molecularFormula": "N2",
+        "molecularWeight": "28.014",
+        "synonyms": [
+          "Nitrogen",
+          "Nitrogen gas",
+          "Molecular nitrogen",
+          "Dinitrogen",
+          "7727-37-9",
+          "MOL Nitrogen",
+          "Nitrogeno",
+          "Nitrogen (n2)",
+          "INS NO.941",
+          "DTXSID4036304",
+          "INS-941",
+          "E-941"
+        ]
+      },
+      "pubchemQuery": "nitrogen",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/947",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-nitrogen",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1333-74-0",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H2",
+      "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+      "iupacName": "molecular hydrogen",
+      "molecularWeight": "2.016",
+      "name": "Водород технический газообразный",
+      "pubchem": {
+        "cas": "1333-74-0",
+        "cid": 783,
+        "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "iupacName": "molecular hydrogen",
+        "molecularFormula": "H2",
+        "molecularWeight": "2.016",
+        "synonyms": [
+          "Hydrogen",
+          "Molecular hydrogen",
+          "Dihydrogen",
+          "1333-74-0",
+          "Protium",
+          "hydrogen-1",
+          "DTXSID9029643",
+          "7YNJ3PO35Z",
+          "CHEBI:18276",
+          "Hydrogen atoms",
+          "RefChem:389053",
+          "DTXCID00196437"
+        ]
+      },
+      "pubchemQuery": "hydrogen",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/783",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-hydrogen",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1344-28-1",
+      "documents": [
+        "ГОСТ 30559-98",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Al2O3",
+      "inchiKey": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+      "iupacName": "dialuminum;tris(oxygen(2-))",
+      "molecularWeight": "101.961",
+      "name": "Глинозем",
+      "pubchem": {
+        "cas": "1344-28-1",
+        "cid": 9989226,
+        "inchiKey": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "iupacName": "dialuminum;tris(oxygen(2-))",
+        "molecularFormula": "Al2O3",
+        "molecularWeight": "101.961",
+        "synonyms": [
+          "ALUMINUM OXIDE",
+          "1344-28-1",
+          "Aluminium oxide",
+          "Aloxite",
+          "gamma-Alumina",
+          "Aluminum trioxide",
+          "Dialuminum trioxide",
+          "Abramant",
+          "Abramax",
+          "Abrasit",
+          "Almite",
+          "Alundum"
+        ]
+      },
+      "pubchemQuery": "aluminum oxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/9989226",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-aluminum-oxide",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 30559-98"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 30559-98",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Ингибиторы полимеризации DEWAXOI, ИПОН, Infiow",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-ingibitory-polimerizacii-dewaxoi-ipon-infiow",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2453-002-71081640-2004, ТУ 2453-064-58604719-2013, ТУ 2453-037-00279893-2003",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Канифоль ДИМАКС-1(4)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-kanifol-dimaks-1-4",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2453-002-71081640-2004",
+        "ТУ 2453-064-58604719-2013",
+        "ТУ 2453-037-00279893-2003"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2453-002-71081640-2004, ТУ 2453-064-58604719-2013, ТУ 2453-037-00279893-2003",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "67-56-1",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CH4O",
+      "inchiKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+      "iupacName": "methanol",
+      "molecularWeight": "32.042",
+      "name": "Катализатор дожига метанола",
+      "pubchem": {
+        "cas": "67-56-1",
+        "cid": 887,
+        "inchiKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "iupacName": "methanol",
+        "molecularFormula": "CH4O",
+        "molecularWeight": "32.042",
+        "synonyms": [
+          "methanol",
+          "methyl alcohol",
+          "67-56-1",
+          "wood alcohol",
+          "Methylol",
+          "Wood naphtha",
+          "Methyl hydroxide",
+          "Monohydroxymethane",
+          "Methylalkohol",
+          "Alcool methylique",
+          "Methyl hydrate",
+          "Alcohol, methyl"
+        ]
+      },
+      "pubchemQuery": "methanol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/887",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-methanol",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Катализатор сплавной Ni-Al-Ti",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-katalizator-splavnoy-ni-al-ti",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7439-93-2",
+      "documents": [
+        "ГОСТ 8774-75",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Li",
+      "inchiKey": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+      "iupacName": "lithium",
+      "molecularWeight": "7.0",
+      "name": "Литий металлический",
+      "pubchem": {
+        "cas": "7439-93-2",
+        "cid": 3028194,
+        "inchiKey": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "iupacName": "lithium",
+        "molecularFormula": "Li",
+        "molecularWeight": "7.0",
+        "synonyms": [
+          "LITHIUM",
+          "7439-93-2",
+          "Lithium element",
+          "CHEBI:30145",
+          "Lithium, metallic",
+          "Lithium, elemental",
+          "Lithium 7",
+          "DTXSID5036761",
+          "RefChem:5953",
+          "LITHIUM METALLICUM",
+          "9FN79X2M3F",
+          "DTXCID101012138"
+        ]
+      },
+      "pubchemQuery": "lithium",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/3028194",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-lithium",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 8774-75"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 8774-75",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1344-28-1",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Al2O3",
+      "inchiKey": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+      "iupacName": "dialuminum;tris(oxygen(2-))",
+      "molecularWeight": "101.961",
+      "name": "Оксид алюминия активный",
+      "pubchem": {
+        "cas": "1344-28-1",
+        "cid": 9989226,
+        "inchiKey": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "iupacName": "dialuminum;tris(oxygen(2-))",
+        "molecularFormula": "Al2O3",
+        "molecularWeight": "101.961",
+        "synonyms": [
+          "ALUMINUM OXIDE",
+          "1344-28-1",
+          "Aluminium oxide",
+          "Aloxite",
+          "gamma-Alumina",
+          "Aluminum trioxide",
+          "Dialuminum trioxide",
+          "Abramant",
+          "Abramax",
+          "Abrasit",
+          "Almite",
+          "Alundum"
+        ]
+      },
+      "pubchemQuery": "aluminum oxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/9989226",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-aluminum-oxide",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1333-74-0",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H2",
+      "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+      "iupacName": "molecular hydrogen",
+      "molecularWeight": "2.016",
+      "name": "Фракция углеводородная С5",
+      "pubchem": {
+        "cas": "1333-74-0",
+        "cid": 783,
+        "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "iupacName": "molecular hydrogen",
+        "molecularFormula": "H2",
+        "molecularWeight": "2.016",
+        "synonyms": [
+          "Hydrogen",
+          "Molecular hydrogen",
+          "Dihydrogen",
+          "1333-74-0",
+          "Protium",
+          "hydrogen-1",
+          "DTXSID9029643",
+          "7YNJ3PO35Z",
+          "CHEBI:18276",
+          "Hydrogen atoms",
+          "RefChem:389053",
+          "DTXCID00196437"
+        ]
+      },
+      "pubchemQuery": "hydrogen",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/783",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-hydrogen",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1333-74-0",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H2",
+      "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+      "iupacName": "molecular hydrogen",
+      "molecularWeight": "2.016",
+      "name": "Фракция углеводородная С6+",
+      "pubchem": {
+        "cas": "1333-74-0",
+        "cid": 783,
+        "inchiKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "iupacName": "molecular hydrogen",
+        "molecularFormula": "H2",
+        "molecularWeight": "2.016",
+        "synonyms": [
+          "Hydrogen",
+          "Molecular hydrogen",
+          "Dihydrogen",
+          "1333-74-0",
+          "Protium",
+          "hydrogen-1",
+          "DTXSID9029643",
+          "7YNJ3PO35Z",
+          "CHEBI:18276",
+          "Hydrogen atoms",
+          "RefChem:389053",
+          "DTXCID00196437"
+        ]
+      },
+      "pubchemQuery": "hydrogen",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/783",
+      "responsible": {
+        "email": "fedorova.up@ruschem.ru",
+        "name": "Федорова Ульяна Петровна",
+        "phone": "+7 (3473) 29-44-55",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-hydrogen",
+      "source": "СНХЗ: Федорова Ульяна Петровна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7664-41-7",
+      "documents": [
+        "ГОСТ 6221-90",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H3N",
+      "inchiKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+      "iupacName": "azane",
+      "molecularWeight": "17.031",
+      "name": "Аммиак безводный сжиженный, марка А",
+      "pubchem": {
+        "cas": "7664-41-7",
+        "cid": 222,
+        "inchiKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+        "iupacName": "azane",
+        "molecularFormula": "H3N",
+        "molecularWeight": "17.031",
+        "synonyms": [
+          "ammonia",
+          "azane",
+          "7664-41-7",
+          "Ammonia gas",
+          "Nitro-sil",
+          "Ammonia anhydrous",
+          "Ammonia, anhydrous",
+          "Anhydrous ammonia",
+          "Ammoniak",
+          "Liquid Ammonia",
+          "AM-Fol",
+          "ammoniac"
+        ]
+      },
+      "pubchemQuery": "ammonia",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/222",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-ammonia",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 6221-90"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 6221-90",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "106-99-0",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H6",
+      "inchiKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+      "iupacName": "buta-1,3-diene",
+      "molecularWeight": "54.09",
+      "name": "Бутадиен",
+      "pubchem": {
+        "cas": "106-99-0",
+        "cid": 7845,
+        "inchiKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+        "iupacName": "buta-1,3-diene",
+        "molecularFormula": "C4H6",
+        "molecularWeight": "54.09",
+        "synonyms": [
+          "1,3-BUTADIENE",
+          "Buta-1,3-diene",
+          "106-99-0",
+          "Divinyl",
+          "Biethylene",
+          "Vinylethylene",
+          "Bivinyl",
+          "Erythrene",
+          "Pyrrolylene",
+          "Butadieen",
+          "Butadien",
+          "Buta-1,3-dien"
+        ]
+      },
+      "pubchemQuery": "1,3-butadiene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7845",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-1-3-butadiene",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "106-99-0",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H6",
+      "inchiKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+      "iupacName": "buta-1,3-diene",
+      "molecularWeight": "54.09",
+      "name": "Бутилен-бутадиеновая фракция",
+      "pubchem": {
+        "cas": "106-99-0",
+        "cid": 7845,
+        "inchiKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+        "iupacName": "buta-1,3-diene",
+        "molecularFormula": "C4H6",
+        "molecularWeight": "54.09",
+        "synonyms": [
+          "1,3-BUTADIENE",
+          "Buta-1,3-diene",
+          "106-99-0",
+          "Divinyl",
+          "Biethylene",
+          "Vinylethylene",
+          "Bivinyl",
+          "Erythrene",
+          "Pyrrolylene",
+          "Butadieen",
+          "Butadien",
+          "Buta-1,3-dien"
+        ]
+      },
+      "pubchemQuery": "1,3-butadiene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7845",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-1-3-butadiene",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "115-11-7",
+      "documents": [
+        "НТД производителя",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H8",
+      "inchiKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+      "iupacName": "2-methylprop-1-ene",
+      "molecularWeight": "56.11",
+      "name": "Бутилен-изобутиленовая фракция",
+      "pubchem": {
+        "cas": "115-11-7",
+        "cid": 8255,
+        "inchiKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+        "iupacName": "2-methylprop-1-ene",
+        "molecularFormula": "C4H8",
+        "molecularWeight": "56.11",
+        "synonyms": [
+          "ISOBUTYLENE",
+          "Isobutene",
+          "2-methylprop-1-ene",
+          "2-Methylpropene",
+          "115-11-7",
+          "2-Methyl-1-propene",
+          "2-Methylpropylene",
+          "1,1-Dimethylethylene",
+          "gamma-Butylene",
+          "1-Propene, 2-methyl-",
+          "Isopropylidenemethylene",
+          "Propene, 2-methyl-"
+        ]
+      },
+      "pubchemQuery": "isobutylene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/8255",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-isobutylene",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "НТД производителя"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "НТД производителя",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "124-40-3",
+      "documents": [
+        "ГОСТ 9667-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C2H7N",
+      "inchiKey": "ROSDSFDQCJNGOL-UHFFFAOYSA-N",
+      "iupacName": "N-methylmethanamine",
+      "molecularWeight": "45.08",
+      "name": "Диметиламин технический",
+      "pubchem": {
+        "cas": "124-40-3",
+        "cid": 674,
+        "inchiKey": "ROSDSFDQCJNGOL-UHFFFAOYSA-N",
+        "iupacName": "N-methylmethanamine",
+        "molecularFormula": "C2H7N",
+        "molecularWeight": "45.08",
+        "synonyms": [
+          "dimethylamine",
+          "N-Methylmethanamine",
+          "124-40-3",
+          "N,N-Dimethylamine",
+          "Methanamine, N-methyl-",
+          "Dimethylamine (anhydrous)",
+          "RCRA waste number U092",
+          "DTXSID5024057",
+          "Ai3-15638-X",
+          "ARQ8157E0Q",
+          "Dimethylamine, anhydrous",
+          "NSC-8650"
+        ]
+      },
+      "pubchemQuery": "dimethylamine",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/674",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dimethylamine",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 9667-74"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 9667-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 6848-79",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Диспергатор (Лейканол)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dispergator-leykanol",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 6848-79"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 6848-79",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1310-58-3",
+      "documents": [
+        "ГОСТ 9285-78, сорт 1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "HKO",
+      "inchiKey": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+      "iupacName": "potassium hydroxide",
+      "molecularWeight": "56.106",
+      "name": "Калий едкий жидкий",
+      "pubchem": {
+        "cas": "1310-58-3",
+        "cid": 14797,
+        "inchiKey": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+        "iupacName": "potassium hydroxide",
+        "molecularFormula": "HKO",
+        "molecularWeight": "56.106",
+        "synonyms": [
+          "POTASSIUM HYDROXIDE",
+          "1310-58-3",
+          "Caustic potash",
+          "Potash lye",
+          "Potassium hydrate",
+          "Hydroxyde de potassium",
+          "Potassa",
+          "Potasse caustique",
+          "Potassium hydroxide (K(OH))",
+          "Caustic-potash",
+          "Kali causticum",
+          "Caswell No. 693"
+        ]
+      },
+      "pubchemQuery": "potassium hydroxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14797",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-potassium-hydroxide",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 9285-78"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 9285-78, сорт 1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7664-93-9",
+      "documents": [
+        "ГОСТ 2184-77, сорт 1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H2O4S",
+      "inchiKey": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+      "iupacName": "sulfuric acid",
+      "molecularWeight": "98.08",
+      "name": "Кислота серная техническая",
+      "pubchem": {
+        "cas": "7664-93-9",
+        "cid": 1118,
+        "inchiKey": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+        "iupacName": "sulfuric acid",
+        "molecularFormula": "H2O4S",
+        "molecularWeight": "98.08",
+        "synonyms": [
+          "SULFURIC ACID",
+          "Sulphuric acid",
+          "7664-93-9",
+          "Dihydrogen sulfate",
+          "Dipping acid",
+          "Mattling acid",
+          "Battery acid",
+          "Acide sulfurique",
+          "Electrolyte acid",
+          "Acidum sulfuricum",
+          "Sulphuricum acidum",
+          "Schwefelsaeure"
+        ]
+      },
+      "pubchemQuery": "sulfuric acid",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/1118",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sulfuric-acid",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2184-77"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2184-77, сорт 1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "64-19-7",
+      "documents": [
+        "ГОСТ 19814-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C2H4O2",
+      "inchiKey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+      "iupacName": "acetic acid",
+      "molecularWeight": "60.05",
+      "name": "Кислота уксусная синтетическая",
+      "pubchem": {
+        "cas": "64-19-7",
+        "cid": 176,
+        "inchiKey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+        "iupacName": "acetic acid",
+        "molecularFormula": "C2H4O2",
+        "molecularWeight": "60.05",
+        "synonyms": [
+          "acetic acid",
+          "64-19-7",
+          "ethanoic acid",
+          "Vinegar acid",
+          "Acetic acid glacial",
+          "Ethylic acid",
+          "Glacial acetic acid",
+          "Acetic acid, glacial",
+          "Methanecarboxylic acid",
+          "Acetasol",
+          "Essigsaeure",
+          "Acide acetique"
+        ]
+      },
+      "pubchemQuery": "acetic acid",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/176",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-acetic-acid",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 19814-74"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 19814-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7440-50-8",
+      "documents": [
+        "ГОСТ 546-2001",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Cu",
+      "inchiKey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+      "iupacName": "copper",
+      "molecularWeight": "63.55",
+      "name": "Медь катодная марка М0к и М1к",
+      "pubchem": {
+        "cas": "7440-50-8",
+        "cid": 23978,
+        "inchiKey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "iupacName": "copper",
+        "molecularFormula": "Cu",
+        "molecularWeight": "63.55",
+        "synonyms": [
+          "COPPER",
+          "7440-50-8",
+          "Copper powder",
+          "cuprum",
+          "Copper bronze",
+          "Copper, elemental",
+          "Tatum-T",
+          "Arwood copper",
+          "Copper-airborne",
+          "Copper-milled",
+          "Kafar copper",
+          "Paragard T 380a"
+        ]
+      },
+      "pubchemQuery": "copper",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/23978",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-copper",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 546-2001"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 546-2001",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 5743-008-05120542-96, ТУ 5743-008-05346453-97",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Мел сепарированный МТД-2",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-mel-separirovannyy-mtd-2",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 5743-008-05120542-96",
+        "ТУ 5743-008-05346453-97"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 5743-008-05120542-96, ТУ 5743-008-05346453-97",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "67-56-1",
+      "documents": [
+        "ГОСТ 2222-95",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CH4O",
+      "inchiKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+      "iupacName": "methanol",
+      "molecularWeight": "32.042",
+      "name": "Метанол марка А",
+      "pubchem": {
+        "cas": "67-56-1",
+        "cid": 887,
+        "inchiKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "iupacName": "methanol",
+        "molecularFormula": "CH4O",
+        "molecularWeight": "32.042",
+        "synonyms": [
+          "methanol",
+          "methyl alcohol",
+          "67-56-1",
+          "wood alcohol",
+          "Methylol",
+          "Wood naphtha",
+          "Methyl hydroxide",
+          "Monohydroxymethane",
+          "Methylalkohol",
+          "Alcool methylique",
+          "Methyl hydrate",
+          "Alcohol, methyl"
+        ]
+      },
+      "pubchemQuery": "methanol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/887",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-methanol",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2222-95"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2222-95",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2168-003-00204872-2011",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Наполнитель активный БС-100 уплотненный",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-napolnitel-aktivnyy-bs-100-uplotnennyy",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2168-003-00204872-2011"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2168-003-00204872-2011",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "7664-38-2",
+      "documents": [
+        "ТУ 2143-002-34179766-97",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H3O4P",
+      "inchiKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+      "iupacName": "phosphoric acid",
+      "molecularWeight": "97.995",
+      "name": "Ортофосфорная кислота",
+      "pubchem": {
+        "cas": "7664-38-2",
+        "cid": 1004,
+        "inchiKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "iupacName": "phosphoric acid",
+        "molecularFormula": "H3O4P",
+        "molecularWeight": "97.995",
+        "synonyms": [
+          "Phosphoric acid",
+          "7664-38-2",
+          "ORTHOPHOSPHORIC ACID",
+          "o-Phosphoric acid",
+          "Wc-reiniger",
+          "Acidum phosphoricum",
+          "Sonac",
+          "Phosphorsaeure",
+          "Evits",
+          "Acide phosphorique",
+          "Phosphoricum acidum",
+          "Acido fosforico"
+        ]
+      },
+      "pubchemQuery": "phosphoric acid",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/1004",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-phosphoric-acid",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2143-002-34179766-97"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ТУ 2143-002-34179766-97",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "497-19-8",
+      "documents": [
+        "ГОСТ 5100-85, с изм.1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "CNa2O3",
+      "inchiKey": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+      "iupacName": "disodium;carbonate",
+      "molecularWeight": "105.988",
+      "name": "Сода кальцинированная техническая марки Б, сорт высшый",
+      "pubchem": {
+        "cas": "497-19-8",
+        "cid": 10340,
+        "inchiKey": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+        "iupacName": "disodium;carbonate",
+        "molecularFormula": "CNa2O3",
+        "molecularWeight": "105.988",
+        "synonyms": [
+          "SODIUM CARBONATE",
+          "497-19-8",
+          "Soda Ash",
+          "Disodium carbonate",
+          "Carbonic acid disodium salt",
+          "Sodium carbonate, anhydrous",
+          "Calcined soda",
+          "Solvay soda",
+          "Sodium carbonate anhydrous",
+          "Washing soda",
+          "Bisodium carbonate",
+          "Carbonic acid, disodium salt"
+        ]
+      },
+      "pubchemQuery": "sodium carbonate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/10340",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-carbonate",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 5100-85"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 5100-85, с изм.1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "100-42-5",
+      "documents": [
+        "ГОСТ 10003-90 с изм.1",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C8H8",
+      "inchiKey": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+      "iupacName": "styrene",
+      "molecularWeight": "104.15",
+      "name": "Стирол",
+      "pubchem": {
+        "cas": "100-42-5",
+        "cid": 7501,
+        "inchiKey": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+        "iupacName": "styrene",
+        "molecularFormula": "C8H8",
+        "molecularWeight": "104.15",
+        "synonyms": [
+          "STYRENE",
+          "100-42-5",
+          "Ethenylbenzene",
+          "Phenylethylene",
+          "Vinylbenzene",
+          "Styrol",
+          "Benzene, ethenyl-",
+          "Cinnamene",
+          "Styrene monomer",
+          "Phenylethene",
+          "Styrolene",
+          "Phenethylene"
+        ]
+      },
+      "pubchemQuery": "styrene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7501",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-styrene",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 10003-90 с изм.1"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 10003-90 с изм.1",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "100-97-0",
+      "documents": [
+        "ГОСТ 1381-73 или ТУ 2478-037-00203803-2012",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C6H12N4",
+      "inchiKey": "VKYKSIONXSXAKP-UHFFFAOYSA-N",
+      "iupacName": "1,3,5,7-tetrazatricyclo[3.3.1.13,7]decane",
+      "molecularWeight": "140.19",
+      "name": "Уротропин",
+      "pubchem": {
+        "cas": "100-97-0",
+        "cid": 4101,
+        "inchiKey": "VKYKSIONXSXAKP-UHFFFAOYSA-N",
+        "iupacName": "1,3,5,7-tetrazatricyclo[3.3.1.13,7]decane",
+        "molecularFormula": "C6H12N4",
+        "molecularWeight": "140.19",
+        "synonyms": [
+          "methenamine",
+          "Hexamethylenetetramine",
+          "100-97-0",
+          "Hexamine",
+          "Urotropine",
+          "Urotropin",
+          "1,3,5,7-Tetraazaadamantane",
+          "Uritone",
+          "HMTA",
+          "Hexamethylenamine",
+          "Formamine",
+          "Hexamethylene tetramine"
+        ]
+      },
+      "pubchemQuery": "hexamethylenetetramine",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/4101",
+      "responsible": {
+        "email": "dolgushina.vb@ruschem.ru",
+        "name": "Долгушина Валерия Борисовна",
+        "phone": "+7 (3473) 29-41-88",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-hexamethylenetetramine",
+      "source": "СНХЗ: Долгушина Валерия Борисовна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 1381-73 или ТУ 2478-037-00203803-2012"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 1381-73 или ТУ 2478-037-00203803-2012",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Антиоксидант 168",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-antioksidant-168",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Антиоксидант SP",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-antioksidant-sp",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 9184-004-25489752-2008",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Диатомитовый порошок (ДП)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-diatomitovyy-poroshok-dp",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 9184-004-25489752-2008"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 9184-004-25489752-2008",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "68-12-2",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H7NO",
+      "inchiKey": "ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+      "iupacName": "N,N-dimethylformamide",
+      "molecularWeight": "73.09",
+      "name": "Диметилформамид (ДМФА)",
+      "pubchem": {
+        "cas": "68-12-2",
+        "cid": 6228,
+        "inchiKey": "ZMXDDKWLCZADIW-UHFFFAOYSA-N",
+        "iupacName": "N,N-dimethylformamide",
+        "molecularFormula": "C3H7NO",
+        "molecularWeight": "73.09",
+        "synonyms": [
+          "N,N-DIMETHYLFORMAMIDE",
+          "Dimethylformamide",
+          "68-12-2",
+          "Dimethyl formamide",
+          "N-Formyldimethylamine",
+          "Formamide, N,N-dimethyl-",
+          "Dimethylformamid",
+          "DMFA",
+          "N,N-Dimethyl formamide",
+          "Formyldimethylamine",
+          "Dimetilformamide",
+          "Dwumetyloformamid"
+        ]
+      },
+      "pubchemQuery": "dimethylformamide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/6228",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dimethylformamide",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "101-84-8",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C12H10O",
+      "inchiKey": "USIUVYZYUHIAEV-UHFFFAOYSA-N",
+      "iupacName": "phenoxybenzene",
+      "molecularWeight": "170.21",
+      "name": "Дифенилоксид",
+      "pubchem": {
+        "cas": "101-84-8",
+        "cid": 7583,
+        "inchiKey": "USIUVYZYUHIAEV-UHFFFAOYSA-N",
+        "iupacName": "phenoxybenzene",
+        "molecularFormula": "C12H10O",
+        "molecularWeight": "170.21",
+        "synonyms": [
+          "DIPHENYL ETHER",
+          "Diphenyl oxide",
+          "101-84-8",
+          "Phenoxybenzene",
+          "Phenyl ether",
+          "Benzene, 1,1'-oxybis-",
+          "Diphenylether",
+          "Oxybisbenzene",
+          "Phenyl oxide",
+          "Biphenyl oxide",
+          "Geranium crystals",
+          "Oxydiphenyl"
+        ]
+      },
+      "pubchemQuery": "diphenyl ether",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/7583",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-diphenyl-ether",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "ДЭГА / ИПГА",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dega-ipga",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "110-91-8",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C4H9NO",
+      "inchiKey": "YNAVUWVOSKDBBP-UHFFFAOYSA-N",
+      "iupacName": "morpholine",
+      "molecularWeight": "87.12",
+      "name": "Морфолин",
+      "pubchem": {
+        "cas": "110-91-8",
+        "cid": 8083,
+        "inchiKey": "YNAVUWVOSKDBBP-UHFFFAOYSA-N",
+        "iupacName": "morpholine",
+        "molecularFormula": "C4H9NO",
+        "molecularWeight": "87.12",
+        "synonyms": [
+          "MORPHOLINE",
+          "110-91-8",
+          "1-Oxa-4-azacyclohexane",
+          "Diethylene oximide",
+          "Tetrahydro-1,4-oxazine",
+          "Diethylenimide oxide",
+          "Diethyleneimide oxide",
+          "Diethylene imidoxide",
+          "Drewamine",
+          "Tetrahydro-2H-1,4-oxazine",
+          "Tetrahydro-p-oxazine",
+          "p-Isoxazine, tetrahydro-"
+        ]
+      },
+      "pubchemQuery": "morpholine",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/8083",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-morpholine",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1313-97-9",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Nd2O3",
+      "inchiKey": "PLDDOISOJJCEMH-UHFFFAOYSA-N",
+      "iupacName": "bis(neodymium(3+));tris(oxygen(2-))",
+      "molecularWeight": "336.48",
+      "name": "Неодима оксид",
+      "pubchem": {
+        "cas": "1313-97-9",
+        "cid": 159373,
+        "inchiKey": "PLDDOISOJJCEMH-UHFFFAOYSA-N",
+        "iupacName": "bis(neodymium(3+));tris(oxygen(2-))",
+        "molecularFormula": "Nd2O3",
+        "molecularWeight": "336.48",
+        "synonyms": [
+          "Neodymium oxide",
+          "1313-97-9",
+          "Neodymium(III) oxide",
+          "Neodymia",
+          "Neodymium oxide (Nd2O3)",
+          "Neodymium trioxide",
+          "Dineodymium trioxide",
+          "Neodymium sesquioxide",
+          "Nd2O3",
+          "Neodymium(3+) oxide",
+          "Neodymium oxide, Nd2O3",
+          "AYT3H319PN"
+        ]
+      },
+      "pubchemQuery": "neodymium oxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/159373",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-neodymium-oxide",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "10024-93-8",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Cl3Nd",
+      "inchiKey": "ATINCSYRHURBSP-UHFFFAOYSA-K",
+      "iupacName": "trichloroneodymium",
+      "molecularWeight": "250.60",
+      "name": "Неодима хлорид",
+      "pubchem": {
+        "cas": "10024-93-8",
+        "cid": 66204,
+        "inchiKey": "ATINCSYRHURBSP-UHFFFAOYSA-K",
+        "iupacName": "trichloroneodymium",
+        "molecularFormula": "Cl3Nd",
+        "molecularWeight": "250.60",
+        "synonyms": [
+          "Neodymium chloride",
+          "Neodymium trichloride",
+          "Neodymium chloride (NdCl3)",
+          "25O44EQD4O",
+          "NSC-174325",
+          "RefChem:165204",
+          "233-031-5",
+          "10024-93-8",
+          "trichloroneodymium",
+          "DTXSID7044760",
+          "Neodymium(III) chloride, anhydrous",
+          "EINECS 233-031-5"
+        ]
+      },
+      "pubchemQuery": "neodymium chloride",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/66204",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-neodymium-chloride",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "106-44-5",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C7H8O",
+      "inchiKey": "IWDCLRJOBJJRNH-UHFFFAOYSA-N",
+      "iupacName": "4-methylphenol",
+      "molecularWeight": "108.14",
+      "name": "Пара-крезол",
+      "pubchem": {
+        "cas": "106-44-5",
+        "cid": 2879,
+        "inchiKey": "IWDCLRJOBJJRNH-UHFFFAOYSA-N",
+        "iupacName": "4-methylphenol",
+        "molecularFormula": "C7H8O",
+        "molecularWeight": "108.14",
+        "synonyms": [
+          "P-CRESOL",
+          "4-Methylphenol",
+          "106-44-5",
+          "4-Cresol",
+          "4-Hydroxytoluene",
+          "p-Methylphenol",
+          "p-Hydroxytoluene",
+          "p-Tolyl alcohol",
+          "Phenol, 4-methyl-",
+          "para-Cresol",
+          "p-Kresol",
+          "p-Toluol"
+        ]
+      },
+      "pubchemQuery": "p-cresol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/2879",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-p-cresol",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Паратретбутилпирокатехин (ТБК)",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-paratretbutilpirokatehin-tbk",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "127-18-4",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C2Cl4",
+      "inchiKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+      "iupacName": "1,1,2,2-tetrachloroethene",
+      "molecularWeight": "165.8",
+      "name": "Перхлорэтилен",
+      "pubchem": {
+        "cas": "127-18-4",
+        "cid": 31373,
+        "inchiKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+        "iupacName": "1,1,2,2-tetrachloroethene",
+        "molecularFormula": "C2Cl4",
+        "molecularWeight": "165.8",
+        "synonyms": [
+          "TETRACHLOROETHYLENE",
+          "Tetrachloroethene",
+          "127-18-4",
+          "Perchloroethylene",
+          "Tetrachlorethylene",
+          "Perc",
+          "Perchlorethylene",
+          "Ethene, tetrachloro-",
+          "Ethylene tetrachloride",
+          "1,1,2,2-Tetrachloroethylene",
+          "Ankilostin",
+          "Didakene"
+        ]
+      },
+      "pubchemQuery": "tetrachloroethylene",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/31373",
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-tetrachloroethylene",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Ронгалит",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-rongalit",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Трилон Б",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-trilon-b",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "ЭДТУК",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "valiakhmetov.ra@ruschem.ru",
+        "name": "Валиахметов Руслан Азатович",
+        "phone": "+7 (3473) 29-42-75",
+        "role": "ведущий экономист отдела снабжения сырьем"
+      },
+      "slug": "snhz-edtuk",
+      "source": "СНХЗ: Валиахметов Руслан Азатович",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "108-95-2",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C6H6O",
+      "inchiKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+      "iupacName": "phenol",
+      "molecularWeight": "94.11",
+      "name": "Алкилфенол (Нонилфенол)",
+      "pubchem": {
+        "cas": "108-95-2",
+        "cid": 996,
+        "inchiKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+        "iupacName": "phenol",
+        "molecularFormula": "C6H6O",
+        "molecularWeight": "94.11",
+        "synonyms": [
+          "phenol",
+          "108-95-2",
+          "carbolic acid",
+          "Hydroxybenzene",
+          "Phenic acid",
+          "Oxybenzene",
+          "Benzenol",
+          "Phenylic acid",
+          "Phenylic alcohol",
+          "Monophenol",
+          "Phenyl hydrate",
+          "Phenyl hydroxide"
+        ]
+      },
+      "pubchemQuery": "phenol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/996",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-phenol",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 11069-2001",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Алюминий А-8",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-alyuminiy-a-8",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 11069-2001"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 11069-2001",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 1791-99-019-98",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Алюминий порошок АСД-Т",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-alyuminiy-poroshok-asd-t",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 1791-99-019-98"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 1791-99-019-98",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 38.401-67-108-92",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Бензин БР-1",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-benzin-br-1",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 38.401-67-108-92"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 38.401-67-108-92",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "10588-01-9",
+      "documents": [
+        "ГОСТ 2651-78",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "Cr2Na2O7",
+      "inchiKey": "KIEOKOFEPABQKJ-UHFFFAOYSA-N",
+      "iupacName": "disodium;oxido-(oxido(dioxo)chromio)oxy-dioxochromium",
+      "molecularWeight": "261.97",
+      "name": "Бихромат натрия",
+      "pubchem": {
+        "cas": "10588-01-9",
+        "cid": 25408,
+        "inchiKey": "KIEOKOFEPABQKJ-UHFFFAOYSA-N",
+        "iupacName": "disodium;oxido-(oxido(dioxo)chromio)oxy-dioxochromium",
+        "molecularFormula": "Cr2Na2O7",
+        "molecularWeight": "261.97",
+        "synonyms": [
+          "Sodium dichromate",
+          "Sodium bichromate",
+          "10588-01-9",
+          "Disodium dichromate",
+          "Bichromate of soda",
+          "Celcure",
+          "Natriumdichromat",
+          "Sodium dichromate(VI)",
+          "Natriumbichromaat",
+          "Natriumdichromaat",
+          "Celcure Wood Presrvative",
+          "Bichromate de sodium"
+        ]
+      },
+      "pubchemQuery": "sodium dichromate",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/25408",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-dichromate",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 2651-78"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 2651-78",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Гидропероксид пинана \\",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-gidroperoksid-pinana",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "56-81-5",
+      "documents": [
+        "ГОСТ 6824-96, ОСТ 6-01-21-90",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H8O3",
+      "inchiKey": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+      "iupacName": "propane-1,2,3-triol",
+      "molecularWeight": "92.09",
+      "name": "Глицерин",
+      "pubchem": {
+        "cas": "56-81-5",
+        "cid": 753,
+        "inchiKey": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "iupacName": "propane-1,2,3-triol",
+        "molecularFormula": "C3H8O3",
+        "molecularWeight": "92.09",
+        "synonyms": [
+          "glycerol",
+          "glycerin",
+          "56-81-5",
+          "Glycerine",
+          "1,2,3-Propanetriol",
+          "Glycyl alcohol",
+          "Trihydroxypropane",
+          "Glyceritol",
+          "Osmoglyn",
+          "1,2,3-trihydroxypropane",
+          "Glyrol",
+          "Glysanin"
+        ]
+      },
+      "pubchemQuery": "glycerol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/753",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-glycerol",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 6824-96",
+        "ОСТ 6-01-21-90"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 6824-96, ОСТ 6-01-21-90",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Дипроксид",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-diproksid",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "ДИПЭ",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-dipe",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ОСТ 6-02-20-79, ГОСТ 13032-77, Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Жидкость ПМС-200А",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-zhidkost-pms-200a",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ОСТ 6-02-20-79",
+        "ГОСТ 13032-77"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ОСТ 6-02-20-79, ГОСТ 13032-77, Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Квантислип",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-kvantislip",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Кизельгур",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-kizelgur",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "1310-73-2",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "HNaO",
+      "inchiKey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+      "iupacName": "sodium hydroxide",
+      "molecularWeight": "39.997",
+      "name": "Натр твёрдый",
+      "pubchem": {
+        "cas": "1310-73-2",
+        "cid": 14798,
+        "inchiKey": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+        "iupacName": "sodium hydroxide",
+        "molecularFormula": "HNaO",
+        "molecularWeight": "39.997",
+        "synonyms": [
+          "SODIUM HYDROXIDE",
+          "1310-73-2",
+          "Caustic soda",
+          "Sodium hydrate",
+          "Aetznatron",
+          "Soda lye",
+          "White caustic",
+          "Soda, caustic",
+          "Natriumhydroxid",
+          "Rohrputz",
+          "Plung",
+          "Collo-Grillrein"
+        ]
+      },
+      "pubchemQuery": "sodium hydroxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/14798",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-sodium-hydroxide",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "75-56-9",
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C3H6O",
+      "inchiKey": "GOOHAUXETOMSMM-UHFFFAOYSA-N",
+      "iupacName": "2-methyloxirane",
+      "molecularWeight": "58.08",
+      "name": "Окись пропилена",
+      "pubchem": {
+        "cas": "75-56-9",
+        "cid": 6378,
+        "inchiKey": "GOOHAUXETOMSMM-UHFFFAOYSA-N",
+        "iupacName": "2-methyloxirane",
+        "molecularFormula": "C3H6O",
+        "molecularWeight": "58.08",
+        "synonyms": [
+          "Propylene oxide",
+          "75-56-9",
+          "1,2-Epoxypropane",
+          "Methyloxirane",
+          "Propene oxide",
+          "Epoxypropane",
+          "Propyleneoxide",
+          "Oxirane, methyl-",
+          "1,2-PROPYLENE OXIDE",
+          "Propylene epoxide",
+          "Methyl oxirane",
+          "2,3-Epoxypropane"
+        ]
+      },
+      "pubchemQuery": "propylene oxide",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/6378",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-propylene-oxide",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "pubchem_enriched",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2216-042-07510508-2009",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Полиакриламид-гель",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-poliakrilamid-gel",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2216-042-07510508-2009"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2216-042-07510508-2009",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "Спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Пьюролайт",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-pyurolayt",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "Спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ГОСТ 6484-96 или спецификация",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Стеарин технический м.Т-18",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-stearin-tehnicheskiy-m-t-18",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 6484-96 или спецификация"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ГОСТ 6484-96 или спецификация",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "14807-96-6",
+      "documents": [
+        "ГОСТ 19729-74",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "H2Mg3O12Si4",
+      "inchiKey": "QLQXSZZVUVMFHZ-UHFFFAOYSA-L",
+      "iupacName": "trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide",
+      "molecularWeight": "379.27",
+      "name": "Тальк",
+      "pubchem": {
+        "cas": "14807-96-6",
+        "cid": 165411828,
+        "inchiKey": "QLQXSZZVUVMFHZ-UHFFFAOYSA-L",
+        "iupacName": "trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide",
+        "molecularFormula": "H2Mg3O12Si4",
+        "molecularWeight": "379.27",
+        "synonyms": [
+          "STERITALC",
+          "Huashifen",
+          "Pulvis talci",
+          "Talc powder",
+          "7SEV7J4R1U",
+          "INS NO.553(III)",
+          "INS-553(III)",
+          "E-553(III)",
+          "Potstone",
+          "Sterile Talc",
+          "Steritalc 2g",
+          "Steritalc 3g"
+        ]
+      },
+      "pubchemQuery": "talc",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/165411828",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-talc",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 19729-74"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 19729-74",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": null,
+      "documents": [
+        "ТУ 2211-044-05766801-2014",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": null,
+      "inchiKey": null,
+      "iupacName": null,
+      "molecularWeight": null,
+      "name": "Тетрамеры пропилена",
+      "pubchem": null,
+      "pubchemQuery": null,
+      "pubchemSource": null,
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-tetramery-propilena",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ТУ 2211-044-05766801-2014"
+      ],
+      "status": "needs_manual_mapping",
+      "tenderSpec": "ТУ 2211-044-05766801-2014",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    },
+    {
+      "cas": "107-21-1",
+      "documents": [
+        "ГОСТ 19710-83",
+        "паспорт качества / COA",
+        "SDS/MSDS",
+        "КП с условиями поставки",
+        "аккредитация поставщика СНХЗ"
+      ],
+      "formula": "C2H6O2",
+      "inchiKey": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+      "iupacName": "ethane-1,2-diol",
+      "molecularWeight": "62.07",
+      "name": "Этиленгликоль",
+      "pubchem": {
+        "cas": "107-21-1",
+        "cid": 174,
+        "inchiKey": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "iupacName": "ethane-1,2-diol",
+        "molecularFormula": "C2H6O2",
+        "molecularWeight": "62.07",
+        "synonyms": [
+          "ETHYLENE GLYCOL",
+          "Ethane-1,2-diol",
+          "107-21-1",
+          "1,2-ethanediol",
+          "glycol",
+          "monoethylene glycol",
+          "2-hydroxyethanol",
+          "1,2-Dihydroxyethane",
+          "Glycol alcohol",
+          "Ethylene alcohol",
+          "Fridex",
+          "Tescol"
+        ]
+      },
+      "pubchemQuery": "ethylene glycol",
+      "pubchemSource": "https://pubchem.ncbi.nlm.nih.gov/compound/174",
+      "responsible": {
+        "email": "shlyapkina.syu@ruschem.ru",
+        "name": "Шляпкина Светлана Юрьевна",
+        "phone": "+7 (3473) 29-43-73",
+        "role": "ведущий специалист отдела снабжения сырьем"
+      },
+      "slug": "snhz-ethylene-glycol",
+      "source": "СНХЗ: Шляпкина Светлана Юрьевна",
+      "sourceUrl": "https://snhz.ru/?event=article&cat=55",
+      "standards": [
+        "ГОСТ 19710-83"
+      ],
+      "status": "pubchem_enriched",
+      "tenderSpec": "ГОСТ 19710-83",
+      "volume": "постоянный закуп; точный объем по RFQ/тендеру"
+    }
+  ],
+  "source": "SNHZ official raw material matrix + PubChem PUG REST enrichment",
+  "sourceUrl": "https://snhz.ru/?event=article&cat=55"
+}

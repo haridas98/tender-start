@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "buyerContact": null,
+      "buyerEmail": null,
+      "buyerName": "Department of Defence Production",
+      "buyerPhone": null,
+      "confidence": "medium",
+      "country": "India",
+      "documents": [
+        {
+          "localPath": "data/procurement-documents/asia/india/cppp-2026-dodp-840189-3-notice.txt",
+          "status": "mirrored_text_snapshot",
+          "title": "Tender notice page",
+          "type": "procurement_notice",
+          "url": "https://eprocure.gov.in/cppp/tendersfullview/MTM4MDQwNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MDU0ODYyNA==A13h1R0VNLzIwMjYvQi83NjA4MDQ4A13h1MjAyNl9Eb0RQXzg0MDE4OV8z"
+        },
+        {
+          "localPath": null,
+          "status": "required_for_full_spec",
+          "title": "Technical specification / buyer document",
+          "type": "technical_specification",
+          "url": "https://eprocure.gov.in/cppp/tendersfullview/MTM4MDQwNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MDU0ODYyNA==A13h1R0VNLzIwMjYvQi83NjA4MDQ4A13h1MjAyNl9Eb0RQXzg0MDE4OV8z"
+        },
+        {
+          "localPath": null,
+          "status": "required_for_contracting",
+          "title": "Bid terms and draft contract",
+          "type": "contract_template",
+          "url": "https://eprocure.gov.in/cppp/tendersfullview/MTM4MDQwNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MDU0ODYyNA==A13h1R0VNLzIwMjYvQi83NjA4MDQ4A13h1MjAyNl9Eb0RQXzg0MDE4OV8z"
+        }
+      ],
+      "id": "cppp-2026-dodp-840189-3",
+      "items": [
+        {
+          "documents": [
+            "Tender notice page",
+            "Technical specification / buyer document",
+            "Bid terms and draft contract"
+          ],
+          "name": "rubber sheet",
+          "okpd2": null,
+          "price": null,
+          "quantity": "1",
+          "spec": "Conductive rubber sheet size 2MM thick, width 1 mtr and length 10 mtr | Bid submission closing: 2026-06-15T10:15:00+05:30 | Tender opening: 2026-06-15T10:20:00+05:30 | Full grade/spec, COA/SDS/TDS, packaging and delivery terms must be extracted from buyer documents when downloadable.",
+          "unit": "m"
+        }
+      ],
+      "law": "GeM bid / CPPP mirror",
+      "noticeNumber": "2026_DoDP_840189_3",
+      "organization": "Department of Defence Production",
+      "procurementUrl": "https://eprocure.gov.in/cppp/tendersfullview/MTM4MDQwNzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4MDU0ODYyNA==A13h1R0VNLzIwMjYvQi83NjA4MDQ4A13h1MjAyNl9Eb0RQXzg0MDE4OV8z",
+      "publishedAt": "2026-06-04T10:00:00+05:30",
+      "region": "India",
+      "source": "GeM-CPPP latest active tenders parser",
+      "sourceDocumentText": "India procurement notice 2026_DoDP_840189_3: Conductive rubber sheet size 2MM thick, width 1 mtr and length 10 mtr. Buyer: Department of Defence Production. Region: India. Published: 2026-06-04T10:00:00+05:30. Bid closing: 2026-06-15T10:15:00+05:30. Opening: 2026-06-15T10:20:00+05:30. Detected quantity: 1 m. Documents inside TenderStart: Tender notice page (parsed_notice); Technical specification / buyer document (required_for_full_spec); Bid terms and draft contract (required_for_contracting). Conductive rubber sheet size 2MM thick, width 1 mtr and length 10 mtr. Ref: /GEM/2026/B/7608048/2026_DoDP_840189_3. Organization: Department of Defence Production. Published: 04-Jun-2026 10:00 AM. Closing: 15-Jun-2026 10:15 AM. Opening: 15-Jun-2026 10:20 AM.",
+      "status": "parsed_public_tender_notice",
+      "targetPriceRubPerTon": null,
+      "title": "Conductive rubber sheet size 2MM thick, width 1 mtr and length 10 mtr"
+    }
+  ],
+  "source": "GeM-CPPP latest active tenders + CCGP search parser",
+  "sourceUrl": "https://eprocure.gov.in/cppp/latestactivetendersnew/cpppdata",
+  "updatedAt": "2026-06-04T06:05:01.059Z"
+}

@@ -1,0 +1,10 @@
+[Unit]
+Description=TenderStart daily data and RAG pipeline
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/srv/tender-start/app
+EnvironmentFile=-/srv/tender-start/.env
+ExecStart=/usr/bin/npm run pipeline:daily

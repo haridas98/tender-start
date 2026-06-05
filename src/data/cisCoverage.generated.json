@@ -1,0 +1,175 @@
+{
+  "countries": [
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Казахстан",
+      "countrySlug": "kazakhstan",
+      "sourceBreakdown": {
+        "manufacturers.ru": 60
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Госзакупки Казахстана",
+          "url": "https://goszakup.gov.kz/"
+        },
+        {
+          "name": "Samruk-Kazyna",
+          "url": "https://zakup.sk.kz/"
+        }
+      ]
+    },
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Беларусь",
+      "countrySlug": "belarus",
+      "sourceBreakdown": {
+        "manufacturers.ru": 60
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Госзакупки Беларуси",
+          "url": "https://goszakupki.by/"
+        },
+        {
+          "name": "ICETRADE",
+          "url": "https://icetrade.by/"
+        }
+      ]
+    },
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Узбекистан",
+      "countrySlug": "uzbekistan",
+      "sourceBreakdown": {
+        "manufacturers.ru": 60
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Xarid.uz",
+          "url": "https://xarid.uz/"
+        },
+        {
+          "name": "UzEx закупки",
+          "url": "https://dxarid.uzex.uz/"
+        }
+      ]
+    },
+    {
+      "collected": 50,
+      "complete": true,
+      "country": "Кыргызстан",
+      "countrySlug": "kyrgyzstan",
+      "sourceBreakdown": {
+        "OpenStreetMap works": 14,
+        "manufacturers.ru": 36
+      },
+      "target": 50,
+      "tenderPlatforms": [
+        {
+          "name": "Госзакупки Кыргызстана",
+          "url": "https://zakupki.gov.kg/"
+        }
+      ]
+    },
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Армения",
+      "countrySlug": "armenia",
+      "sourceBreakdown": {
+        "manufacturers.ru": 60
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Gnumner.am",
+          "url": "https://gnumner.am/"
+        },
+        {
+          "name": "Armeps",
+          "url": "https://armeps.am/"
+        }
+      ]
+    },
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Азербайджан",
+      "countrySlug": "azerbaijan",
+      "sourceBreakdown": {
+        "manufacturers.ru": 60
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Электронные закупки Азербайджана",
+          "url": "https://etender.gov.az/"
+        }
+      ]
+    },
+    {
+      "collected": 50,
+      "complete": true,
+      "country": "Таджикистан",
+      "countrySlug": "tajikistan",
+      "sourceBreakdown": {
+        "OpenStreetMap works": 42,
+        "manufacturers.ru": 8
+      },
+      "target": 50,
+      "tenderPlatforms": [
+        {
+          "name": "Госзакупки Таджикистана",
+          "url": "https://zakupki.gov.tj/"
+        }
+      ]
+    },
+    {
+      "collected": 50,
+      "complete": true,
+      "country": "Молдова",
+      "countrySlug": "moldova",
+      "sourceBreakdown": {
+        "manufacturers.ru": 15,
+        "OpenStreetMap works": 35
+      },
+      "target": 50,
+      "tenderPlatforms": [
+        {
+          "name": "MTender Moldova",
+          "url": "https://mtender.gov.md/"
+        },
+        {
+          "name": "Achizitii.md",
+          "url": "https://achizitii.md/"
+        }
+      ]
+    },
+    {
+      "collected": 60,
+      "complete": true,
+      "country": "Туркменистан",
+      "countrySlug": "turkmenistan",
+      "sourceBreakdown": {
+        "Made in Turkmenistan": 39,
+        "manufacturers.ru": 21
+      },
+      "target": 60,
+      "tenderPlatforms": [
+        {
+          "name": "Туркменистан: товарно-сырьевая биржа",
+          "url": "https://exchange.gov.tm/"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-06-03T19:29:39.777Z",
+  "source": "manufacturers.ru foreign enterprises + Made in Turkmenistan + OpenStreetMap works + local tender platform registry",
+  "total": 510
+}

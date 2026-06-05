@@ -1,0 +1,1406 @@
+{
+  "countries": [
+    {
+      "collected": 675,
+      "completeRegions": 5,
+      "country": "India",
+      "regions": [
+        {
+          "collected": 100,
+          "complete": true,
+          "iso": "IN-AP",
+          "region": "Andhra Pradesh",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 100
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-AR",
+          "region": "Arunachal Pradesh",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 5,
+          "complete": false,
+          "iso": "IN-AS",
+          "region": "Assam",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3,
+            "Wikidata industrial companies": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 8,
+          "complete": false,
+          "iso": "IN-BR",
+          "region": "Bihar",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 7,
+            "Wikidata industrial companies": 1
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 7,
+          "complete": false,
+          "iso": "IN-CT",
+          "region": "Chhattisgarh",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 7
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 5,
+          "complete": false,
+          "iso": "IN-GA",
+          "region": "Goa",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2,
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 100,
+          "complete": true,
+          "iso": "IN-GJ",
+          "region": "Gujarat",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 100
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 7,
+          "complete": false,
+          "iso": "IN-HR",
+          "region": "Haryana",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 5,
+            "Wikidata industrial companies": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-HP",
+          "region": "Himachal Pradesh",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 7,
+          "complete": false,
+          "iso": "IN-JH",
+          "region": "Jharkhand",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 7
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 100,
+          "complete": true,
+          "iso": "IN-KA",
+          "region": "Karnataka",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 100
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 5,
+          "complete": false,
+          "iso": "IN-KL",
+          "region": "Kerala",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3,
+            "Wikidata industrial companies": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 4,
+          "complete": false,
+          "iso": "IN-MP",
+          "region": "Madhya Pradesh",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 4
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 9,
+          "complete": false,
+          "iso": "IN-MH",
+          "region": "Maharashtra",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3,
+            "Wikidata industrial companies": 6
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-MN",
+          "region": "Manipur",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1,
+            "India MCA Company Master Data": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 6,
+          "complete": false,
+          "iso": "IN-ML",
+          "region": "Meghalaya",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 6
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "IN-MZ",
+          "region": "Mizoram",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-NL",
+          "region": "Nagaland",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 32,
+          "complete": false,
+          "iso": "IN-OR",
+          "region": "Odisha",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 32
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 6,
+          "complete": false,
+          "iso": "IN-PB",
+          "region": "Punjab",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1,
+            "India MCA Company Master Data": 5
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 30,
+          "complete": false,
+          "iso": "IN-RJ",
+          "region": "Rajasthan",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 18,
+            "India MCA Company Master Data": 9,
+            "Wikidata industrial companies": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "IN-SK",
+          "region": "Sikkim",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 1
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 100,
+          "complete": true,
+          "iso": "IN-TN",
+          "region": "Tamil Nadu",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 100
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 100,
+          "complete": true,
+          "iso": "IN-TG",
+          "region": "Telangana",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 100
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "IN-TR",
+          "region": "Tripura",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 2
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 8,
+          "complete": false,
+          "iso": "IN-UP",
+          "region": "Uttar Pradesh",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 5,
+            "Wikidata industrial companies": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "IN-UT",
+          "region": "Uttarakhand",
+          "sourceBreakdown": {},
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 6,
+          "complete": false,
+          "iso": "IN-WB",
+          "region": "West Bengal",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 2,
+            "Wikidata industrial companies": 4
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "IN-AN",
+          "region": "Andaman and Nicobar Islands",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 1
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "IN-CH",
+          "region": "Chandigarh",
+          "sourceBreakdown": {},
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "IN-DH",
+          "region": "Dadra and Nagar Haveli and Daman and Diu",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-DL",
+          "region": "Delhi",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 5,
+          "complete": false,
+          "iso": "IN-JK",
+          "region": "Jammu and Kashmir",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 5
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "IN-LA",
+          "region": "Ladakh",
+          "sourceBreakdown": {},
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 3,
+          "complete": false,
+          "iso": "IN-LD",
+          "region": "Lakshadweep",
+          "sourceBreakdown": {
+            "India MCA Company Master Data": 3
+          },
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "IN-PY",
+          "region": "Puducherry",
+          "sourceBreakdown": {},
+          "target": 100,
+          "tenderPlatforms": [
+            {
+              "label": "Government e-Marketplace (GeM)",
+              "url": "https://gem.gov.in/"
+            },
+            {
+              "label": "Central Public Procurement Portal",
+              "url": "https://eprocure.gov.in/cppp/"
+            }
+          ]
+        }
+      ],
+      "sourceBreakdown": {
+        "India MCA Company Master Data": 97,
+        "OpenStreetMap Overpass": 550,
+        "Wikidata industrial companies": 28
+      },
+      "target": 3600
+    },
+    {
+      "collected": 1065,
+      "completeRegions": 7,
+      "country": "China",
+      "regions": [
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "CN-AH",
+          "region": "Anhui",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "CN-BJ",
+          "region": "Beijing",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-CQ",
+          "region": "Chongqing",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-FJ",
+          "region": "Fujian",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-GD",
+          "region": "Guangdong",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-GS",
+          "region": "Gansu",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-GX",
+          "region": "Guangxi",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-GZ",
+          "region": "Guizhou",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "CN-HA",
+          "region": "Henan",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-HB",
+          "region": "Hubei",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "CN-HE",
+          "region": "Hebei",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-HI",
+          "region": "Hainan",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "CN-HL",
+          "region": "Heilongjiang",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-HN",
+          "region": "Hunan",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-JL",
+          "region": "Jilin",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-JS",
+          "region": "Jiangsu",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-JX",
+          "region": "Jiangxi",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-LN",
+          "region": "Liaoning",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "CN-NM",
+          "region": "Inner Mongolia",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-NX",
+          "region": "Ningxia",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-QH",
+          "region": "Qinghai",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-SC",
+          "region": "Sichuan",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-SD",
+          "region": "Shandong",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-SH",
+          "region": "Shanghai",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-SN",
+          "region": "Shaanxi",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "CN-SX",
+          "region": "Shanxi",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "CN-TJ",
+          "region": "Tianjin",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 1,
+          "complete": false,
+          "iso": "CN-XJ",
+          "region": "Xinjiang",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 1
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 2,
+          "complete": false,
+          "iso": "CN-XZ",
+          "region": "Tibet",
+          "sourceBreakdown": {
+            "Wikidata industrial companies": 2
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 0,
+          "complete": false,
+          "iso": "CN-YN",
+          "region": "Yunnan",
+          "sourceBreakdown": {},
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        },
+        {
+          "collected": 150,
+          "complete": true,
+          "iso": "CN-ZJ",
+          "region": "Zhejiang",
+          "sourceBreakdown": {
+            "OpenStreetMap Overpass": 150
+          },
+          "target": 150,
+          "tenderPlatforms": [
+            {
+              "label": "China Government Procurement Network",
+              "url": "https://www.ccgp.gov.cn/",
+              "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+            },
+            {
+              "label": "CCGP search",
+              "url": "https://search.ccgp.gov.cn/"
+            }
+          ]
+        }
+      ],
+      "sourceBreakdown": {
+        "Wikidata industrial companies": 15,
+        "OpenStreetMap Overpass": 1050
+      },
+      "target": 4650
+    }
+  ],
+  "generatedAt": "2026-06-04T06:09:27.702Z",
+  "source": "India MCA Company Master Data + Wikidata industrial companies + OpenStreetMap Overpass",
+  "standardVersion": "tenderstart-plant-profile-v1",
+  "tenderPlatforms": {
+    "china": [
+      {
+        "label": "China Government Procurement Network",
+        "url": "https://www.ccgp.gov.cn/",
+        "searchUrl": "https://search.ccgp.gov.cn/bxsearch"
+      },
+      {
+        "label": "CCGP search",
+        "url": "https://search.ccgp.gov.cn/"
+      }
+    ],
+    "india": [
+      {
+        "label": "Government e-Marketplace (GeM)",
+        "url": "https://gem.gov.in/"
+      },
+      {
+        "label": "Central Public Procurement Portal",
+        "url": "https://eprocure.gov.in/cppp/"
+      }
+    ]
+  },
+  "total": 1740,
+  "totalCompleteRegions": 12,
+  "totalRegions": 67,
+  "totalTarget": 8250
+}
